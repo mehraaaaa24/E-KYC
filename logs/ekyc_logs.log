@@ -543,3 +543,403 @@
 [2025-01-12 21:39:41,512: INFO: sql_connection]: No records found.
 [2025-01-12 21:39:41,542: INFO: sql_connection]: No records found.
 [2025-01-12 21:39:41,542: INFO: sql_connection]: No duplicate records found.
+[2025-05-26 15:54:39,927: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2025-05-26 15:54:44,732: INFO: utils]: Note: NumExpr detected 12 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+[2025-05-26 15:54:44,732: INFO: utils]: NumExpr defaulting to 8 threads.
+[2025-05-26 15:54:50,968: WARNING: module_wrapper]: From C:\Users\HARSHUL\anaconda3\Lib\site-packages\tf_keras\src\losses.py:2976: The name tf.losses.sparse_softmax_cross_entropy is deprecated. Please use tf.compat.v1.losses.sparse_softmax_cross_entropy instead.
+
+[2025-05-26 15:54:51,893: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2025-05-26 15:54:51,942: INFO: face_verification]: Extracting face...
+[2025-05-26 15:54:52,681: INFO: face_verification]: Extracted face saved at: C:\Users\HARSHUL\Desktop\PROJECTS\E-KYC\data\02_intermediate_data\extracted_face.jpg
+[2025-05-26 15:54:53,091: INFO: sql_connection]: Connection established with database
+[2025-05-26 15:54:53,511: INFO: app]: Page layout set to wider configuration.
+[2025-05-26 15:54:53,512: INFO: app]: Custom theme applied to Streamlit app.
+[2025-05-26 15:54:53,514: INFO: app]: ID card type selected: PAN
+[2025-05-26 15:54:53,514: INFO: app]: Header set for PAN Card registration.
+[2025-05-26 16:58:43,876: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2025-05-26 16:59:13,758: WARNING: module_wrapper]: From C:\Users\HARSHUL\Desktop\PROJECTS\New_Ekyc\ekyc2\Lib\site-packages\tf_keras\src\losses.py:2976: The name tf.losses.sparse_softmax_cross_entropy is deprecated. Please use tf.compat.v1.losses.sparse_softmax_cross_entropy instead.
+
+[2025-05-26 16:59:15,067: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2025-05-26 16:59:15,134: INFO: face_verification]: Extracting face...
+[2025-05-26 16:59:16,230: INFO: face_verification]: Extracted face saved at: C:\Users\HARSHUL\Desktop\PROJECTS\New_Ekyc\data\02_intermediate_data\extracted_face.jpg
+[2025-05-26 16:59:17,000: INFO: sql_connection]: Connection established with database
+[2025-05-26 16:59:18,056: INFO: app]: Page layout set to wider configuration.
+[2025-05-26 16:59:18,057: INFO: app]: Custom theme applied to Streamlit app.
+[2025-05-26 16:59:18,058: INFO: app]: ID card type selected: PAN
+[2025-05-26 16:59:18,058: INFO: app]: Header set for PAN Card registration.
+[2025-05-26 17:11:33,201: INFO: utils]: YAML file loaded successfully: config.yaml
+[2025-05-26 17:11:42,791: INFO: utils]: Note: NumExpr detected 12 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+[2025-05-26 17:11:42,791: INFO: utils]: NumExpr defaulting to 8 threads.
+[2025-05-26 17:11:56,777: WARNING: module_wrapper]: From C:\Users\HARSHUL\anaconda3\Lib\site-packages\tf_keras\src\losses.py:2976: The name tf.losses.sparse_softmax_cross_entropy is deprecated. Please use tf.compat.v1.losses.sparse_softmax_cross_entropy instead.
+
+[2025-05-26 17:11:59,436: INFO: utils]: YAML file loaded successfully: config.yaml
+[2025-05-26 17:11:59,895: INFO: sql_connection]: Connection established with database
+[2025-05-26 17:12:00,677: INFO: app]: Page layout set to wider configuration.
+[2025-05-26 17:12:00,677: INFO: app]: Custom theme applied to Streamlit app.
+[2025-05-26 17:12:00,679: INFO: app]: ID card type selected: PAN
+[2025-05-26 17:12:00,680: INFO: app]: Header set for PAN Card registration.
+[2025-05-26 17:12:26,171: INFO: app]: Page layout set to wider configuration.
+[2025-05-26 17:12:26,172: INFO: app]: Custom theme applied to Streamlit app.
+[2025-05-26 17:12:26,174: INFO: app]: ID card type selected: PAN
+[2025-05-26 17:12:26,175: INFO: app]: Header set for PAN Card registration.
+[2025-05-26 17:12:26,178: ERROR: preprocess]: Error reading image: 'NoneType' object has no attribute 'read'
+[2025-05-26 17:12:26,178: INFO: app]: Face image loaded.
+[2025-05-26 17:12:26,178: ERROR: app]: No face image uploaded.
+[2025-05-26 17:13:03,063: INFO: app]: Page layout set to wider configuration.
+[2025-05-26 17:13:03,065: INFO: app]: Custom theme applied to Streamlit app.
+[2025-05-26 17:13:03,070: INFO: app]: ID card type selected: PAN
+[2025-05-26 17:13:03,071: INFO: app]: Header set for PAN Card registration.
+[2025-05-26 17:13:14,764: INFO: app]: Page layout set to wider configuration.
+[2025-05-26 17:13:14,766: INFO: app]: Custom theme applied to Streamlit app.
+[2025-05-26 17:13:14,768: INFO: app]: ID card type selected: PAN
+[2025-05-26 17:13:14,768: INFO: app]: Header set for PAN Card registration.
+[2025-05-26 17:13:14,771: ERROR: preprocess]: Error reading image: 'NoneType' object has no attribute 'read'
+[2025-05-26 17:13:14,771: INFO: app]: Face image loaded.
+[2025-05-26 17:13:14,771: ERROR: app]: No face image uploaded.
+[2025-05-26 17:13:18,497: INFO: app]: Page layout set to wider configuration.
+[2025-05-26 17:13:18,497: INFO: app]: Custom theme applied to Streamlit app.
+[2025-05-26 17:13:18,499: INFO: app]: ID card type selected: PAN
+[2025-05-26 17:13:18,501: INFO: app]: Header set for PAN Card registration.
+[2025-05-26 17:13:18,537: INFO: app]: Face image loaded.
+[2025-05-26 17:13:18,543: INFO: app]: ID card image loaded.
+[2025-05-26 17:13:18,591: INFO: preprocess]: ID card contours found at: (1, 2, 742, 463)
+[2025-05-26 17:13:18,593: INFO: utils]: File exists at: C:\Users\HARSHUL\Desktop\PROJECTS\New_Ekyc\data\02_intermediate_data\contour_id.jpg
+[2025-05-26 17:13:18,611: INFO: app]: ID card ROI extracted.
+[2025-05-26 17:13:18,612: INFO: face_verification]: Starting face extraction process...
+[2025-05-26 17:13:19,518: INFO: face_verification]: Extracted face saved at: C:\Users\HARSHUL\Desktop\PROJECTS\New_Ekyc\data\02_intermediate_data\extracted_face.jpg
+[2025-05-26 17:13:19,523: INFO: utils]: File exists at: data\02_intermediate_data\face_image.jpg
+[2025-05-26 17:13:19,527: INFO: preprocess]: Image saved at: data\02_intermediate_data\face_image.jpg
+[2025-05-26 17:13:19,527: INFO: app]: Faces extracted and saved.
+[2025-05-26 17:13:19,527: INFO: face_verification]: Verifying faces using DeepFace...
+[2025-05-26 17:13:19,527: INFO: utils]: File exists at: data\02_intermediate_data\face_image.jpg
+[2025-05-26 17:13:19,527: INFO: utils]: File exists at: C:\Users\HARSHUL\Desktop\PROJECTS\New_Ekyc\data\02_intermediate_data\extracted_face.jpg
+[2025-05-26 17:13:42,229: INFO: face_verification]: DeepFace result: {'verified': True, 'distance': 0.08135898359420302, 'threshold': 0.68, 'model': 'VGG-Face', 'detector_backend': 'opencv', 'similarity_metric': 'cosine', 'facial_areas': {'img1': {'x': 26, 'y': 27, 'w': 102, 'h': 102, 'left_eye': (96, 65), 'right_eye': (60, 66)}, 'img2': {'x': 25, 'y': 24, 'w': 106, 'h': 106, 'left_eye': (96, 64), 'right_eye': (58, 66)}}, 'time': 22.7}
+[2025-05-26 17:13:42,244: INFO: face_verification]: Face verification successful.
+[2025-05-26 17:13:42,245: INFO: app]: Face verification status: successful.
+[2025-05-26 17:13:42,246: INFO: ocr_engine]: Text Extraction Started...
+[2025-05-26 17:13:42,290: WARNING: easyocr]: Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+[2025-05-26 17:13:48,194: INFO: ocr_engine]: Initializing OCR reader and processing image...
+[2025-05-26 17:13:51,218: INFO: ocr_engine]: OCR Output: 'HRA' (Confidence: 0.16)
+[2025-05-26 17:13:51,218: INFO: ocr_engine]: OCR Output: 'HTET' (Confidence: 0.27)
+[2025-05-26 17:13:51,218: INFO: ocr_engine]: OCR Output: 'Govermentorindia' (Confidence: 0.80)
+[2025-05-26 17:13:51,218: INFO: ocr_engine]: OCR Output: '3faned; faarf' (Confidence: 0.08)
+[2025-05-26 17:13:51,218: INFO: ocr_engine]: OCR Output: 'Abhishek Tiwari' (Confidence: 0.90)
+[2025-05-26 17:13:51,218: INFO: ocr_engine]: OCR Output: '1' (Confidence: 0.44)
+[2025-05-26 17:13:51,218: INFO: ocr_engine]: OCR Output: 'Jon 1afr' (Confidence: 0.08)
+[2025-05-26 17:13:51,218: INFO: ocr_engine]: OCR Output: 'DOB' (Confidence: 1.00)
+[2025-05-26 17:13:51,218: INFO: ocr_engine]: OCR Output: '07/05/2002' (Confidence: 1.00)
+[2025-05-26 17:13:51,218: INFO: ocr_engine]: OCR Output: '5Y' (Confidence: 0.20)
+[2025-05-26 17:13:51,218: INFO: ocr_engine]: OCR Output: 'MALE' (Confidence: 1.00)
+[2025-05-26 17:13:51,218: INFO: ocr_engine]: OCR Output: '8' (Confidence: 1.00)
+[2025-05-26 17:13:51,218: INFO: ocr_engine]: OCR Output: '1' (Confidence: 0.27)
+[2025-05-26 17:13:51,219: INFO: ocr_engine]: OCR Output: '8173 2997 3675' (Confidence: 0.92)
+[2025-05-26 17:13:51,219: INFO: ocr_engine]: OCR Output: 'ArT' (Confidence: 0.42)
+[2025-05-26 17:13:51,219: INFO: ocr_engine]: OCR Output: 'HHR ,' (Confidence: 0.34)
+[2025-05-26 17:13:51,219: INFO: ocr_engine]: OCR Output: 'T 4a' (Confidence: 0.36)
+[2025-05-26 17:13:51,219: INFO: ocr_engine]: Final Extracted Text: |Govermentorindia|Abhishek Tiwari|1|DOB|07/05/2002|MALE|8|8173 2997 3675|ArT|HHR ,|T 4a|
+[2025-05-26 17:13:51,243: INFO: app]: Text extracted and information parsed from ID card.
+[2025-05-26 17:13:51,382: INFO: sql_connection]: No records found.
+[2025-05-26 17:13:51,500: INFO: sql_connection]: No records found.
+[2025-05-26 17:13:51,501: INFO: sql_connection]: No duplicate records found.
+[2025-05-26 17:13:51,539: INFO: face_verification]: Extracting embeddings from: data\02_intermediate_data\face_image.jpg
+[2025-05-26 17:13:51,560: INFO: utils]: File exists at: data\02_intermediate_data\face_image.jpg
+[2025-05-26 17:14:52,249: INFO: face_verification]: Successfully retrieved face embeddings.
+[2025-05-26 17:14:52,306: ERROR: sql_connection]: Error inserting records into users table: 1292 (22007): Incorrect datetime value: '07-05-2002' for column 'dob' at row 1
+[2025-05-26 17:17:04,782: INFO: app]: Page layout set to wider configuration.
+[2025-05-26 17:17:04,786: INFO: app]: Custom theme applied to Streamlit app.
+[2025-05-26 17:17:04,790: INFO: app]: ID card type selected: PAN
+[2025-05-26 17:17:04,791: INFO: app]: Header set for PAN Card registration.
+[2025-05-26 17:17:15,696: INFO: app]: Page layout set to wider configuration.
+[2025-05-26 17:17:15,697: INFO: app]: Custom theme applied to Streamlit app.
+[2025-05-26 17:17:15,699: INFO: app]: ID card type selected: PAN
+[2025-05-26 17:17:15,700: INFO: app]: Header set for PAN Card registration.
+[2025-05-26 17:17:15,702: ERROR: preprocess]: Error reading image: 'NoneType' object has no attribute 'read'
+[2025-05-26 17:17:15,702: INFO: app]: Face image loaded.
+[2025-05-26 17:17:15,704: ERROR: app]: No face image uploaded.
+[2025-05-26 17:17:22,573: INFO: app]: Page layout set to wider configuration.
+[2025-05-26 17:17:22,574: INFO: app]: Custom theme applied to Streamlit app.
+[2025-05-26 17:17:22,576: INFO: app]: ID card type selected: PAN
+[2025-05-26 17:17:22,576: INFO: app]: Header set for PAN Card registration.
+[2025-05-26 17:17:22,582: INFO: app]: Face image loaded.
+[2025-05-26 17:17:22,584: INFO: app]: ID card image loaded.
+[2025-05-26 17:17:22,608: INFO: preprocess]: ID card contours found at: (0, 2, 448, 263)
+[2025-05-26 17:17:22,609: INFO: utils]: File exists at: C:\Users\HARSHUL\Desktop\PROJECTS\New_Ekyc\data\02_intermediate_data\contour_id.jpg
+[2025-05-26 17:17:22,627: INFO: app]: ID card ROI extracted.
+[2025-05-26 17:17:22,628: INFO: face_verification]: Starting face extraction process...
+[2025-05-26 17:17:22,753: INFO: face_verification]: Extracted face saved at: C:\Users\HARSHUL\Desktop\PROJECTS\New_Ekyc\data\02_intermediate_data\extracted_face.jpg
+[2025-05-26 17:17:22,756: INFO: utils]: File exists at: data\02_intermediate_data\face_image.jpg
+[2025-05-26 17:17:22,760: INFO: preprocess]: Image saved at: data\02_intermediate_data\face_image.jpg
+[2025-05-26 17:17:22,760: INFO: app]: Faces extracted and saved.
+[2025-05-26 17:17:22,761: INFO: face_verification]: Verifying faces using DeepFace...
+[2025-05-26 17:17:22,761: INFO: utils]: File exists at: data\02_intermediate_data\face_image.jpg
+[2025-05-26 17:17:22,761: INFO: utils]: File exists at: C:\Users\HARSHUL\Desktop\PROJECTS\New_Ekyc\data\02_intermediate_data\extracted_face.jpg
+[2025-05-26 17:17:25,071: INFO: face_verification]: DeepFace result: {'verified': False, 'distance': 0.9156504141372567, 'threshold': 0.68, 'model': 'VGG-Face', 'detector_backend': 'opencv', 'similarity_metric': 'cosine', 'facial_areas': {'img1': {'x': 26, 'y': 27, 'w': 103, 'h': 103, 'left_eye': (96, 64), 'right_eye': (60, 67)}, 'img2': {'x': 14, 'y': 14, 'w': 58, 'h': 58, 'left_eye': None, 'right_eye': None}}, 'time': 2.31}
+[2025-05-26 17:17:25,071: INFO: face_verification]: Face verification failed.
+[2025-05-26 17:17:25,071: INFO: app]: Face verification status: failed.
+[2025-05-26 17:17:33,642: INFO: app]: Page layout set to wider configuration.
+[2025-05-26 17:17:33,644: INFO: app]: Custom theme applied to Streamlit app.
+[2025-05-26 17:17:33,645: INFO: app]: ID card type selected: PAN
+[2025-05-26 17:17:33,646: INFO: app]: Header set for PAN Card registration.
+[2025-05-26 17:17:33,648: INFO: app]: Face image loaded.
+[2025-05-26 17:17:33,656: INFO: app]: ID card image loaded.
+[2025-05-26 17:17:33,663: INFO: preprocess]: ID card contours found at: (133, 54, 743, 466)
+[2025-05-26 17:17:33,664: INFO: utils]: File exists at: C:\Users\HARSHUL\Desktop\PROJECTS\New_Ekyc\data\02_intermediate_data\contour_id.jpg
+[2025-05-26 17:17:33,676: INFO: app]: ID card ROI extracted.
+[2025-05-26 17:17:33,676: INFO: face_verification]: Starting face extraction process...
+[2025-05-26 17:17:33,802: INFO: face_verification]: Extracted face saved at: C:\Users\HARSHUL\Desktop\PROJECTS\New_Ekyc\data\02_intermediate_data\extracted_face.jpg
+[2025-05-26 17:17:33,804: INFO: utils]: File exists at: data\02_intermediate_data\face_image.jpg
+[2025-05-26 17:17:33,807: INFO: preprocess]: Image saved at: data\02_intermediate_data\face_image.jpg
+[2025-05-26 17:17:33,807: INFO: app]: Faces extracted and saved.
+[2025-05-26 17:17:33,807: INFO: face_verification]: Verifying faces using DeepFace...
+[2025-05-26 17:17:33,807: INFO: utils]: File exists at: data\02_intermediate_data\face_image.jpg
+[2025-05-26 17:17:33,807: INFO: utils]: File exists at: C:\Users\HARSHUL\Desktop\PROJECTS\New_Ekyc\data\02_intermediate_data\extracted_face.jpg
+[2025-05-26 17:17:34,370: INFO: face_verification]: DeepFace result: {'verified': True, 'distance': 0.07409229893142644, 'threshold': 0.68, 'model': 'VGG-Face', 'detector_backend': 'opencv', 'similarity_metric': 'cosine', 'facial_areas': {'img1': {'x': 26, 'y': 27, 'w': 103, 'h': 103, 'left_eye': (96, 64), 'right_eye': (60, 67)}, 'img2': {'x': 28, 'y': 29, 'w': 104, 'h': 104, 'left_eye': (100, 69), 'right_eye': (60, 70)}}, 'time': 0.56}
+[2025-05-26 17:17:34,370: INFO: face_verification]: Face verification successful.
+[2025-05-26 17:17:34,370: INFO: app]: Face verification status: successful.
+[2025-05-26 17:17:34,370: INFO: ocr_engine]: Text Extraction Started...
+[2025-05-26 17:17:34,373: WARNING: easyocr]: Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+[2025-05-26 17:17:37,251: INFO: app]: Page layout set to wider configuration.
+[2025-05-26 17:17:37,252: INFO: app]: Custom theme applied to Streamlit app.
+[2025-05-26 17:17:37,254: INFO: app]: ID card type selected: PAN
+[2025-05-26 17:17:37,254: INFO: app]: Header set for PAN Card registration.
+[2025-05-26 17:17:37,257: INFO: app]: Face image loaded.
+[2025-05-26 17:17:37,266: INFO: app]: ID card image loaded.
+[2025-05-26 17:17:37,271: INFO: preprocess]: ID card contours found at: (133, 54, 743, 466)
+[2025-05-26 17:17:37,272: INFO: utils]: File exists at: C:\Users\HARSHUL\Desktop\PROJECTS\New_Ekyc\data\02_intermediate_data\contour_id.jpg
+[2025-05-26 17:17:37,285: INFO: app]: ID card ROI extracted.
+[2025-05-26 17:17:37,285: INFO: face_verification]: Starting face extraction process...
+[2025-05-26 17:17:37,405: INFO: face_verification]: Extracted face saved at: C:\Users\HARSHUL\Desktop\PROJECTS\New_Ekyc\data\02_intermediate_data\extracted_face.jpg
+[2025-05-26 17:17:37,407: INFO: utils]: File exists at: data\02_intermediate_data\face_image.jpg
+[2025-05-26 17:17:37,411: INFO: preprocess]: Image saved at: data\02_intermediate_data\face_image.jpg
+[2025-05-26 17:17:37,411: INFO: app]: Faces extracted and saved.
+[2025-05-26 17:17:37,411: INFO: face_verification]: Verifying faces using DeepFace...
+[2025-05-26 17:17:37,411: INFO: utils]: File exists at: data\02_intermediate_data\face_image.jpg
+[2025-05-26 17:17:37,411: INFO: utils]: File exists at: C:\Users\HARSHUL\Desktop\PROJECTS\New_Ekyc\data\02_intermediate_data\extracted_face.jpg
+[2025-05-26 17:17:38,123: INFO: face_verification]: DeepFace result: {'verified': True, 'distance': 0.07409229893142644, 'threshold': 0.68, 'model': 'VGG-Face', 'detector_backend': 'opencv', 'similarity_metric': 'cosine', 'facial_areas': {'img1': {'x': 26, 'y': 27, 'w': 103, 'h': 103, 'left_eye': (96, 64), 'right_eye': (60, 67)}, 'img2': {'x': 28, 'y': 29, 'w': 104, 'h': 104, 'left_eye': (100, 69), 'right_eye': (60, 70)}}, 'time': 0.71}
+[2025-05-26 17:17:38,123: INFO: face_verification]: Face verification successful.
+[2025-05-26 17:17:38,123: INFO: app]: Face verification status: successful.
+[2025-05-26 17:17:38,124: INFO: ocr_engine]: Text Extraction Started...
+[2025-05-26 17:17:38,125: WARNING: easyocr]: Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+[2025-05-26 17:17:38,360: INFO: ocr_engine]: Initializing OCR reader and processing image...
+[2025-05-26 17:17:42,150: INFO: ocr_engine]: Initializing OCR reader and processing image...
+[2025-05-26 17:17:42,851: INFO: ocr_engine]: OCR Output: 'HT HIET' (Confidence: 0.15)
+[2025-05-26 17:17:42,851: INFO: ocr_engine]: OCR Output: 'Governmentonindia' (Confidence: 0.62)
+[2025-05-26 17:17:42,851: INFO: ocr_engine]: OCR Output: 'Hfaved faart' (Confidence: 0.13)
+[2025-05-26 17:17:42,852: INFO: ocr_engine]: OCR Output: 'Abhishek Tiwari' (Confidence: 0.84)
+[2025-05-26 17:17:42,852: INFO: ocr_engine]: OCR Output: ']' (Confidence: 0.07)
+[2025-05-26 17:17:42,852: INFO: ocr_engine]: OCR Output: 'Sn ff' (Confidence: 0.12)
+[2025-05-26 17:17:42,852: INFO: ocr_engine]: OCR Output: 'DOB' (Confidence: 1.00)
+[2025-05-26 17:17:42,852: INFO: ocr_engine]: OCR Output: '07/05/2002' (Confidence: 1.00)
+[2025-05-26 17:17:42,852: INFO: ocr_engine]: OCR Output: '5r4' (Confidence: 0.15)
+[2025-05-26 17:17:42,852: INFO: ocr_engine]: OCR Output: 'MALE' (Confidence: 1.00)
+[2025-05-26 17:17:42,852: INFO: ocr_engine]: OCR Output: '8' (Confidence: 1.00)
+[2025-05-26 17:17:42,852: INFO: ocr_engine]: OCR Output: '1' (Confidence: 0.11)
+[2025-05-26 17:17:42,852: INFO: ocr_engine]: OCR Output: '8173 2997 3675' (Confidence: 0.89)
+[2025-05-26 17:17:42,853: INFO: ocr_engine]: OCR Output: 'HT 3THR,' (Confidence: 0.14)
+[2025-05-26 17:17:42,853: INFO: ocr_engine]: OCR Output: 'H 4a' (Confidence: 0.11)
+[2025-05-26 17:17:42,853: INFO: ocr_engine]: Final Extracted Text: |Governmentonindia|Abhishek Tiwari|DOB|07/05/2002|MALE|8|8173 2997 3675|
+[2025-05-26 17:17:42,856: INFO: app]: Text extracted and information parsed from ID card.
+[2025-05-26 17:17:42,951: INFO: sql_connection]: No records found.
+[2025-05-26 17:17:42,960: INFO: sql_connection]: No records found.
+[2025-05-26 17:17:42,961: INFO: sql_connection]: No duplicate records found.
+[2025-05-26 17:17:45,144: INFO: ocr_engine]: OCR Output: 'HT HIET' (Confidence: 0.15)
+[2025-05-26 17:17:45,144: INFO: ocr_engine]: OCR Output: 'Governmentonindia' (Confidence: 0.62)
+[2025-05-26 17:17:45,144: INFO: ocr_engine]: OCR Output: 'Hfaved faart' (Confidence: 0.13)
+[2025-05-26 17:17:45,144: INFO: ocr_engine]: OCR Output: 'Abhishek Tiwari' (Confidence: 0.84)
+[2025-05-26 17:17:45,144: INFO: ocr_engine]: OCR Output: ']' (Confidence: 0.07)
+[2025-05-26 17:17:45,144: INFO: ocr_engine]: OCR Output: 'Sn ff' (Confidence: 0.12)
+[2025-05-26 17:17:45,144: INFO: ocr_engine]: OCR Output: 'DOB' (Confidence: 1.00)
+[2025-05-26 17:17:45,145: INFO: ocr_engine]: OCR Output: '07/05/2002' (Confidence: 1.00)
+[2025-05-26 17:17:45,145: INFO: ocr_engine]: OCR Output: '5r4' (Confidence: 0.15)
+[2025-05-26 17:17:45,145: INFO: ocr_engine]: OCR Output: 'MALE' (Confidence: 1.00)
+[2025-05-26 17:17:45,145: INFO: ocr_engine]: OCR Output: '8' (Confidence: 1.00)
+[2025-05-26 17:17:45,145: INFO: ocr_engine]: OCR Output: '1' (Confidence: 0.11)
+[2025-05-26 17:17:45,145: INFO: ocr_engine]: OCR Output: '8173 2997 3675' (Confidence: 0.89)
+[2025-05-26 17:17:45,145: INFO: ocr_engine]: OCR Output: 'HT 3THR,' (Confidence: 0.14)
+[2025-05-26 17:17:45,145: INFO: ocr_engine]: OCR Output: 'H 4a' (Confidence: 0.11)
+[2025-05-26 17:17:45,145: INFO: ocr_engine]: Final Extracted Text: |Governmentonindia|Abhishek Tiwari|DOB|07/05/2002|MALE|8|8173 2997 3675|
+[2025-05-26 17:17:45,146: INFO: app]: Text extracted and information parsed from ID card.
+[2025-05-26 17:17:45,147: INFO: sql_connection]: No records found.
+[2025-05-26 17:17:45,151: INFO: sql_connection]: No records found.
+[2025-05-26 17:17:45,152: INFO: sql_connection]: No duplicate records found.
+[2025-05-26 17:17:45,153: INFO: face_verification]: Extracting embeddings from: data\02_intermediate_data\face_image.jpg
+[2025-05-26 17:17:45,153: INFO: utils]: File exists at: data\02_intermediate_data\face_image.jpg
+[2025-05-26 17:17:46,286: INFO: face_verification]: Successfully retrieved face embeddings.
+[2025-05-26 17:17:46,292: ERROR: sql_connection]: Error inserting records into users table: 1292 (22007): Incorrect datetime value: '07-05-2002' for column 'dob' at row 1
+[2025-05-26 17:17:46,294: INFO: app]: New user record inserted: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+[2025-05-26 17:27:19,319: INFO: utils]: YAML file loaded: config.yaml
+[2025-05-26 17:27:19,343: INFO: utils]: YAML file loaded: config.yaml
+[2025-05-26 17:27:19,876: INFO: sql_connection]: Connection established with database
+[2025-05-26 17:27:19,909: INFO: app]: Page layout set to wider configuration.
+[2025-05-26 17:27:19,913: INFO: app]: Custom theme applied to Streamlit app.
+[2025-05-26 17:27:19,920: INFO: app]: ID card type selected: PAN
+[2025-05-26 17:27:19,920: INFO: app]: Header set for PAN Card registration.
+[2025-05-26 17:27:19,987: INFO: app]: Face image loaded.
+[2025-05-26 17:27:19,996: INFO: app]: ID card image loaded.
+[2025-05-26 17:27:20,125: INFO: preprocess]: ID card contours found at: (133, 54, 743, 466)
+[2025-05-26 17:27:20,129: INFO: utils]: File exists at C:\Users\HARSHUL\Desktop\PROJECTS\New_Ekyc\data\02_intermediate_data\contour_id.jpg
+[2025-05-26 17:27:20,167: INFO: app]: ID card ROI extracted.
+[2025-05-26 17:27:20,167: INFO: face_verification]: Starting face extraction process...
+[2025-05-26 17:27:20,505: INFO: face_verification]: Extracted face saved at: C:\Users\HARSHUL\Desktop\PROJECTS\New_Ekyc\data\02_intermediate_data\extracted_face.jpg
+[2025-05-26 17:27:20,511: INFO: utils]: File exists at data\02_intermediate_data\face_image.jpg
+[2025-05-26 17:27:20,514: INFO: preprocess]: Image saved at: data\02_intermediate_data\face_image.jpg
+[2025-05-26 17:27:20,514: INFO: app]: Faces extracted and saved.
+[2025-05-26 17:27:20,514: INFO: face_verification]: Verifying faces using DeepFace...
+[2025-05-26 17:27:20,515: INFO: utils]: File exists at data\02_intermediate_data\face_image.jpg
+[2025-05-26 17:27:20,515: INFO: utils]: File exists at C:\Users\HARSHUL\Desktop\PROJECTS\New_Ekyc\data\02_intermediate_data\extracted_face.jpg
+[2025-05-26 17:27:27,740: INFO: face_verification]: DeepFace result: {'verified': True, 'distance': 0.07409229893142644, 'threshold': 0.68, 'model': 'VGG-Face', 'detector_backend': 'opencv', 'similarity_metric': 'cosine', 'facial_areas': {'img1': {'x': 26, 'y': 27, 'w': 103, 'h': 103, 'left_eye': (96, 64), 'right_eye': (60, 67)}, 'img2': {'x': 28, 'y': 29, 'w': 104, 'h': 104, 'left_eye': (100, 69), 'right_eye': (60, 70)}}, 'time': 7.22}
+[2025-05-26 17:27:27,746: INFO: face_verification]: Face verification successful.
+[2025-05-26 17:27:27,746: INFO: app]: Face verification status: successful.
+[2025-05-26 17:27:27,746: INFO: ocr_engine]: Text Extraction Started...
+[2025-05-26 17:27:27,755: WARNING: easyocr]: Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+[2025-05-26 17:27:32,137: INFO: ocr_engine]: Initializing OCR reader and processing image...
+[2025-05-26 17:27:35,389: INFO: ocr_engine]: OCR Output: 'HT HIET' (Confidence: 0.15)
+[2025-05-26 17:27:35,389: INFO: ocr_engine]: OCR Output: 'Governmentonindia' (Confidence: 0.62)
+[2025-05-26 17:27:35,389: INFO: ocr_engine]: OCR Output: 'Hfaved faart' (Confidence: 0.13)
+[2025-05-26 17:27:35,389: INFO: ocr_engine]: OCR Output: 'Abhishek Tiwari' (Confidence: 0.84)
+[2025-05-26 17:27:35,389: INFO: ocr_engine]: OCR Output: ']' (Confidence: 0.07)
+[2025-05-26 17:27:35,389: INFO: ocr_engine]: OCR Output: 'Sn ff' (Confidence: 0.12)
+[2025-05-26 17:27:35,389: INFO: ocr_engine]: OCR Output: 'DOB' (Confidence: 1.00)
+[2025-05-26 17:27:35,389: INFO: ocr_engine]: OCR Output: '07/05/2002' (Confidence: 1.00)
+[2025-05-26 17:27:35,389: INFO: ocr_engine]: OCR Output: '5r4' (Confidence: 0.15)
+[2025-05-26 17:27:35,389: INFO: ocr_engine]: OCR Output: 'MALE' (Confidence: 1.00)
+[2025-05-26 17:27:35,390: INFO: ocr_engine]: OCR Output: '8' (Confidence: 1.00)
+[2025-05-26 17:27:35,390: INFO: ocr_engine]: OCR Output: '1' (Confidence: 0.11)
+[2025-05-26 17:27:35,390: INFO: ocr_engine]: OCR Output: '8173 2997 3675' (Confidence: 0.89)
+[2025-05-26 17:27:35,390: INFO: ocr_engine]: OCR Output: 'HT 3THR,' (Confidence: 0.14)
+[2025-05-26 17:27:35,390: INFO: ocr_engine]: OCR Output: 'H 4a' (Confidence: 0.11)
+[2025-05-26 17:27:35,390: INFO: ocr_engine]: Final Extracted Text: |Governmentonindia|Abhishek Tiwari|DOB|07/05/2002|MALE|8|8173 2997 3675|
+[2025-05-26 17:27:35,396: INFO: app]: Text extracted and information parsed from ID card.
+[2025-05-26 17:27:35,445: INFO: sql_connection]: No records found.
+[2025-05-26 17:27:35,465: INFO: sql_connection]: No records found.
+[2025-05-26 17:27:35,465: INFO: sql_connection]: No duplicate records found.
+[2025-05-26 17:27:35,482: INFO: face_verification]: Extracting embeddings from: data\02_intermediate_data\face_image.jpg
+[2025-05-26 17:27:35,483: INFO: utils]: File exists at data\02_intermediate_data\face_image.jpg
+[2025-05-26 17:27:36,218: INFO: app]: Page layout set to wider configuration.
+[2025-05-26 17:27:36,221: INFO: app]: Custom theme applied to Streamlit app.
+[2025-05-26 17:27:36,228: INFO: app]: ID card type selected: PAN
+[2025-05-26 17:27:36,228: INFO: app]: Header set for PAN Card registration.
+[2025-05-26 17:27:36,233: ERROR: preprocess]: Error reading image: 'NoneType' object has no attribute 'read'
+[2025-05-26 17:27:36,234: INFO: app]: Face image loaded.
+[2025-05-26 17:27:36,236: ERROR: app]: No face image uploaded.
+[2025-05-26 17:27:40,430: INFO: face_verification]: Successfully retrieved face embeddings.
+[2025-05-26 17:27:40,460: ERROR: sql_connection]: Error inserting records into users table: 1292 (22007): Incorrect datetime value: '07-05-2002' for column 'dob' at row 1
+[2025-05-26 17:27:46,305: INFO: app]: Page layout set to wider configuration.
+[2025-05-26 17:27:46,305: INFO: app]: Custom theme applied to Streamlit app.
+[2025-05-26 17:27:46,307: INFO: app]: ID card type selected: PAN
+[2025-05-26 17:27:46,307: INFO: app]: Header set for PAN Card registration.
+[2025-05-26 17:27:46,311: INFO: app]: Face image loaded.
+[2025-05-26 17:27:46,317: INFO: app]: ID card image loaded.
+[2025-05-26 17:27:46,345: INFO: preprocess]: ID card contours found at: (133, 54, 743, 466)
+[2025-05-26 17:27:46,345: INFO: utils]: File exists at C:\Users\HARSHUL\Desktop\PROJECTS\New_Ekyc\data\02_intermediate_data\contour_id.jpg
+[2025-05-26 17:27:46,365: INFO: app]: ID card ROI extracted.
+[2025-05-26 17:27:46,365: INFO: face_verification]: Starting face extraction process...
+[2025-05-26 17:27:46,472: INFO: face_verification]: Extracted face saved at: C:\Users\HARSHUL\Desktop\PROJECTS\New_Ekyc\data\02_intermediate_data\extracted_face.jpg
+[2025-05-26 17:27:46,476: INFO: utils]: File exists at data\02_intermediate_data\face_image.jpg
+[2025-05-26 17:27:46,482: INFO: preprocess]: Image saved at: data\02_intermediate_data\face_image.jpg
+[2025-05-26 17:27:46,482: INFO: app]: Faces extracted and saved.
+[2025-05-26 17:27:46,482: INFO: face_verification]: Verifying faces using DeepFace...
+[2025-05-26 17:27:46,482: INFO: utils]: File exists at data\02_intermediate_data\face_image.jpg
+[2025-05-26 17:27:46,484: INFO: utils]: File exists at C:\Users\HARSHUL\Desktop\PROJECTS\New_Ekyc\data\02_intermediate_data\extracted_face.jpg
+[2025-05-26 17:27:48,451: INFO: face_verification]: DeepFace result: {'verified': False, 'distance': 0.7807213662404089, 'threshold': 0.68, 'model': 'VGG-Face', 'detector_backend': 'opencv', 'similarity_metric': 'cosine', 'facial_areas': {'img1': {'x': 2, 'y': 0, 'w': 63, 'h': 63, 'left_eye': None, 'right_eye': None}, 'img2': {'x': 28, 'y': 29, 'w': 104, 'h': 104, 'left_eye': (100, 69), 'right_eye': (60, 70)}}, 'time': 1.97}
+[2025-05-26 17:27:48,451: INFO: face_verification]: Face verification failed.
+[2025-05-26 17:27:48,451: INFO: app]: Face verification status: failed.
+[2025-05-26 17:27:52,282: INFO: app]: Page layout set to wider configuration.
+[2025-05-26 17:27:52,283: INFO: app]: Custom theme applied to Streamlit app.
+[2025-05-26 17:27:52,285: INFO: app]: ID card type selected: PAN
+[2025-05-26 17:27:52,286: INFO: app]: Header set for PAN Card registration.
+[2025-05-26 17:27:52,288: INFO: app]: Face image loaded.
+[2025-05-26 17:27:52,296: INFO: app]: ID card image loaded.
+[2025-05-26 17:27:52,303: INFO: preprocess]: ID card contours found at: (133, 54, 743, 466)
+[2025-05-26 17:27:52,303: INFO: utils]: File exists at C:\Users\HARSHUL\Desktop\PROJECTS\New_Ekyc\data\02_intermediate_data\contour_id.jpg
+[2025-05-26 17:27:52,315: INFO: app]: ID card ROI extracted.
+[2025-05-26 17:27:52,316: INFO: face_verification]: Starting face extraction process...
+[2025-05-26 17:27:52,431: INFO: face_verification]: Extracted face saved at: C:\Users\HARSHUL\Desktop\PROJECTS\New_Ekyc\data\02_intermediate_data\extracted_face.jpg
+[2025-05-26 17:27:52,433: INFO: utils]: File exists at data\02_intermediate_data\face_image.jpg
+[2025-05-26 17:27:52,437: INFO: preprocess]: Image saved at: data\02_intermediate_data\face_image.jpg
+[2025-05-26 17:27:52,437: INFO: app]: Faces extracted and saved.
+[2025-05-26 17:27:52,437: INFO: face_verification]: Verifying faces using DeepFace...
+[2025-05-26 17:27:52,437: INFO: utils]: File exists at data\02_intermediate_data\face_image.jpg
+[2025-05-26 17:27:52,437: INFO: utils]: File exists at C:\Users\HARSHUL\Desktop\PROJECTS\New_Ekyc\data\02_intermediate_data\extracted_face.jpg
+[2025-05-26 17:27:53,029: INFO: face_verification]: DeepFace result: {'verified': True, 'distance': 0.07409229893142644, 'threshold': 0.68, 'model': 'VGG-Face', 'detector_backend': 'opencv', 'similarity_metric': 'cosine', 'facial_areas': {'img1': {'x': 26, 'y': 27, 'w': 103, 'h': 103, 'left_eye': (96, 64), 'right_eye': (60, 67)}, 'img2': {'x': 28, 'y': 29, 'w': 104, 'h': 104, 'left_eye': (100, 69), 'right_eye': (60, 70)}}, 'time': 0.59}
+[2025-05-26 17:27:53,029: INFO: face_verification]: Face verification successful.
+[2025-05-26 17:27:53,030: INFO: app]: Face verification status: successful.
+[2025-05-26 17:27:53,030: INFO: ocr_engine]: Text Extraction Started...
+[2025-05-26 17:27:53,032: WARNING: easyocr]: Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+[2025-05-26 17:27:57,072: INFO: ocr_engine]: Initializing OCR reader and processing image...
+[2025-05-26 17:27:59,808: INFO: ocr_engine]: OCR Output: 'HT HIET' (Confidence: 0.15)
+[2025-05-26 17:27:59,808: INFO: ocr_engine]: OCR Output: 'Governmentonindia' (Confidence: 0.62)
+[2025-05-26 17:27:59,808: INFO: ocr_engine]: OCR Output: 'Hfaved faart' (Confidence: 0.13)
+[2025-05-26 17:27:59,809: INFO: ocr_engine]: OCR Output: 'Abhishek Tiwari' (Confidence: 0.84)
+[2025-05-26 17:27:59,809: INFO: ocr_engine]: OCR Output: ']' (Confidence: 0.07)
+[2025-05-26 17:27:59,809: INFO: ocr_engine]: OCR Output: 'Sn ff' (Confidence: 0.12)
+[2025-05-26 17:27:59,809: INFO: ocr_engine]: OCR Output: 'DOB' (Confidence: 1.00)
+[2025-05-26 17:27:59,809: INFO: ocr_engine]: OCR Output: '07/05/2002' (Confidence: 1.00)
+[2025-05-26 17:27:59,809: INFO: ocr_engine]: OCR Output: '5r4' (Confidence: 0.15)
+[2025-05-26 17:27:59,809: INFO: ocr_engine]: OCR Output: 'MALE' (Confidence: 1.00)
+[2025-05-26 17:27:59,809: INFO: ocr_engine]: OCR Output: '8' (Confidence: 1.00)
+[2025-05-26 17:27:59,809: INFO: ocr_engine]: OCR Output: '1' (Confidence: 0.11)
+[2025-05-26 17:27:59,809: INFO: ocr_engine]: OCR Output: '8173 2997 3675' (Confidence: 0.89)
+[2025-05-26 17:27:59,809: INFO: ocr_engine]: OCR Output: 'HT 3THR,' (Confidence: 0.14)
+[2025-05-26 17:27:59,809: INFO: ocr_engine]: OCR Output: 'H 4a' (Confidence: 0.11)
+[2025-05-26 17:27:59,809: INFO: ocr_engine]: Final Extracted Text: |Governmentonindia|Abhishek Tiwari|DOB|07/05/2002|MALE|8|8173 2997 3675|
+[2025-05-26 17:27:59,810: INFO: app]: Text extracted and information parsed from ID card.
+[2025-05-26 17:27:59,813: INFO: sql_connection]: No records found.
+[2025-05-26 17:27:59,814: INFO: sql_connection]: No records found.
+[2025-05-26 17:27:59,815: INFO: sql_connection]: No duplicate records found.
+[2025-05-26 17:27:59,816: INFO: face_verification]: Extracting embeddings from: data\02_intermediate_data\face_image.jpg
+[2025-05-26 17:27:59,816: INFO: utils]: File exists at data\02_intermediate_data\face_image.jpg
+[2025-05-26 17:28:00,236: INFO: face_verification]: Successfully retrieved face embeddings.
+[2025-05-26 17:28:00,238: ERROR: sql_connection]: Error inserting records into users table: 1292 (22007): Incorrect datetime value: '07-05-2002' for column 'dob' at row 1
+[2025-05-26 17:28:00,239: INFO: app]: New user record inserted: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+[2025-05-26 17:34:02,989: INFO: utils]: YAML file loaded: config.yaml
+[2025-05-26 17:34:03,039: INFO: utils]: YAML file loaded: config.yaml
+[2025-05-26 17:34:03,459: INFO: sql_connection]: Connection established with database
+[2025-05-26 17:34:03,530: INFO: app]: Page layout set to wider configuration.
+[2025-05-26 17:34:03,530: INFO: app]: Custom theme applied to Streamlit app.
+[2025-05-26 17:34:03,562: INFO: app]: ID card type selected: PAN
+[2025-05-26 17:34:03,564: INFO: app]: Header set for PAN Card registration.
+[2025-05-26 17:34:03,620: INFO: app]: Face image loaded.
+[2025-05-26 17:34:03,632: INFO: app]: ID card image loaded.
+[2025-05-26 17:34:03,693: INFO: preprocess]: ID card contours found at: (133, 54, 743, 466)
+[2025-05-26 17:34:03,695: INFO: utils]: File exists at C:\Users\HARSHUL\Desktop\PROJECTS\New_Ekyc\data\02_intermediate_data\contour_id.jpg
+[2025-05-26 17:34:03,724: INFO: app]: ID card ROI extracted.
+[2025-05-26 17:34:03,724: INFO: face_verification]: Starting face extraction process...
+[2025-05-26 17:34:04,093: INFO: face_verification]: Extracted face saved at: C:\Users\HARSHUL\Desktop\PROJECTS\New_Ekyc\data\02_intermediate_data\extracted_face.jpg
+[2025-05-26 17:34:04,099: INFO: utils]: File exists at data\02_intermediate_data\face_image.jpg
+[2025-05-26 17:34:04,102: INFO: preprocess]: Image saved at: data\02_intermediate_data\face_image.jpg
+[2025-05-26 17:34:04,103: INFO: app]: Faces extracted and saved.
+[2025-05-26 17:34:04,103: INFO: face_verification]: Verifying faces using DeepFace...
+[2025-05-26 17:34:04,103: INFO: utils]: File exists at data\02_intermediate_data\face_image.jpg
+[2025-05-26 17:34:04,103: INFO: utils]: File exists at C:\Users\HARSHUL\Desktop\PROJECTS\New_Ekyc\data\02_intermediate_data\extracted_face.jpg
+[2025-05-26 17:34:12,444: INFO: face_verification]: DeepFace result: {'verified': True, 'distance': 0.07409229893142644, 'threshold': 0.68, 'model': 'VGG-Face', 'detector_backend': 'opencv', 'similarity_metric': 'cosine', 'facial_areas': {'img1': {'x': 26, 'y': 27, 'w': 103, 'h': 103, 'left_eye': (96, 64), 'right_eye': (60, 67)}, 'img2': {'x': 28, 'y': 29, 'w': 104, 'h': 104, 'left_eye': (100, 69), 'right_eye': (60, 70)}}, 'time': 8.34}
+[2025-05-26 17:34:12,445: INFO: face_verification]: Face verification successful.
+[2025-05-26 17:34:12,445: INFO: app]: Face verification status: successful.
+[2025-05-26 17:34:12,445: INFO: ocr_engine]: Text Extraction Started...
+[2025-05-26 17:34:12,457: WARNING: easyocr]: Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+[2025-05-26 17:34:20,056: INFO: ocr_engine]: Initializing OCR reader and processing image...
+[2025-05-26 17:34:22,998: INFO: ocr_engine]: OCR Output: 'HT HIET' (Confidence: 0.15)
+[2025-05-26 17:34:22,998: INFO: ocr_engine]: OCR Output: 'Governmentonindia' (Confidence: 0.62)
+[2025-05-26 17:34:22,998: INFO: ocr_engine]: OCR Output: 'Hfaved faart' (Confidence: 0.13)
+[2025-05-26 17:34:22,998: INFO: ocr_engine]: OCR Output: 'Abhishek Tiwari' (Confidence: 0.84)
+[2025-05-26 17:34:22,999: INFO: ocr_engine]: OCR Output: ']' (Confidence: 0.07)
+[2025-05-26 17:34:22,999: INFO: ocr_engine]: OCR Output: 'Sn ff' (Confidence: 0.12)
+[2025-05-26 17:34:22,999: INFO: ocr_engine]: OCR Output: 'DOB' (Confidence: 1.00)
+[2025-05-26 17:34:22,999: INFO: ocr_engine]: OCR Output: '07/05/2002' (Confidence: 1.00)
+[2025-05-26 17:34:22,999: INFO: ocr_engine]: OCR Output: '5r4' (Confidence: 0.15)
+[2025-05-26 17:34:22,999: INFO: ocr_engine]: OCR Output: 'MALE' (Confidence: 1.00)
+[2025-05-26 17:34:22,999: INFO: ocr_engine]: OCR Output: '8' (Confidence: 1.00)
+[2025-05-26 17:34:22,999: INFO: ocr_engine]: OCR Output: '1' (Confidence: 0.11)
+[2025-05-26 17:34:22,999: INFO: ocr_engine]: OCR Output: '8173 2997 3675' (Confidence: 0.89)
+[2025-05-26 17:34:22,999: INFO: ocr_engine]: OCR Output: 'HT 3THR,' (Confidence: 0.14)
+[2025-05-26 17:34:22,999: INFO: ocr_engine]: OCR Output: 'H 4a' (Confidence: 0.11)
+[2025-05-26 17:34:22,999: INFO: ocr_engine]: Final Extracted Text: |Governmentonindia|Abhishek Tiwari|DOB|07/05/2002|MALE|8|8173 2997 3675|
+[2025-05-26 17:34:23,004: INFO: app]: Text extracted and information parsed from ID card.
+[2025-05-26 17:34:23,044: INFO: sql_connection]: No records found.
+[2025-05-26 17:34:23,085: INFO: sql_connection]: No records found.
+[2025-05-26 17:34:23,086: INFO: sql_connection]: No duplicate records found.
+[2025-05-26 17:34:23,090: INFO: face_verification]: Extracting embeddings from: data\02_intermediate_data\face_image.jpg
+[2025-05-26 17:34:23,090: INFO: utils]: File exists at data\02_intermediate_data\face_image.jpg
+[2025-05-26 17:34:24,677: INFO: face_verification]: Successfully retrieved face embeddings.
+[2025-05-26 17:34:24,694: ERROR: sql_connection]: Error inserting records into users table: 1292 (22007): Incorrect datetime value: '07-05-2002' for column 'dob' at row 1
+[2025-05-26 17:34:24,697: INFO: app]: New user record inserted: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
