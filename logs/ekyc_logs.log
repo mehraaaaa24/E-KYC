@@ -1,0 +1,545 @@
+[2024-12-12 00:56:41,412: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2024-12-12 00:56:59,818: WARNING: module_wrapper]: From C:\Users\HARSHUL\Desktop\ekyc\E-KYC-\project\Lib\site-packages\tf_keras\src\losses.py:2976: The name tf.losses.sparse_softmax_cross_entropy is deprecated. Please use tf.compat.v1.losses.sparse_softmax_cross_entropy instead.
+
+[2024-12-12 00:57:00,573: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2024-12-12 00:57:00,623: INFO: face_verification]: Extracting face...
+[2024-12-12 00:57:01,413: INFO: face_verification]: Extracted face saved at: C:\Users\HARSHUL\Desktop\ekyc\E-KYC-\data\02_intermediate_data\extracted_face.jpg
+[2024-12-12 00:57:01,848: INFO: sql_connection]: Connection established with database
+[2024-12-12 00:57:02,607: INFO: app]: Page layout set to wider configuration.
+[2024-12-12 00:57:02,608: INFO: app]: Custom theme applied to Streamlit app.
+[2024-12-12 00:57:02,609: INFO: app]: ID card type selected: PAN
+[2024-12-12 00:57:02,609: INFO: app]: Header set for PAN Card registration.
+[2024-12-12 00:57:09,211: INFO: app]: Page layout set to wider configuration.
+[2024-12-12 00:57:09,211: INFO: app]: Custom theme applied to Streamlit app.
+[2024-12-12 00:57:09,213: INFO: app]: ID card type selected: AADHAR
+[2024-12-12 00:57:09,214: INFO: app]: Header set for Aadhar Card registration.
+[2024-12-12 00:57:12,036: INFO: app]: Page layout set to wider configuration.
+[2024-12-12 00:57:12,036: INFO: app]: Custom theme applied to Streamlit app.
+[2024-12-12 00:57:12,038: INFO: app]: ID card type selected: PAN
+[2024-12-12 00:57:12,038: INFO: app]: Header set for PAN Card registration.
+[2024-12-12 00:57:54,583: INFO: app]: Page layout set to wider configuration.
+[2024-12-12 00:57:54,584: INFO: app]: Custom theme applied to Streamlit app.
+[2024-12-12 00:57:54,585: INFO: app]: ID card type selected: PAN
+[2024-12-12 00:57:54,586: INFO: app]: Header set for PAN Card registration.
+[2024-12-12 00:57:54,587: INFO: preprocess]: Error reading image: 'NoneType' object has no attribute 'read'
+[2024-12-12 00:57:54,587: INFO: app]: Face image loaded.
+[2024-12-12 00:57:54,588: ERROR: app]: No face image uploaded.
+[2024-12-12 00:58:43,575: INFO: app]: Page layout set to wider configuration.
+[2024-12-12 00:58:43,576: INFO: app]: Custom theme applied to Streamlit app.
+[2024-12-12 00:58:43,577: INFO: app]: ID card type selected: PAN
+[2024-12-12 00:58:43,578: INFO: app]: Header set for PAN Card registration.
+[2024-12-12 00:58:43,582: INFO: app]: Face image loaded.
+[2024-12-12 00:58:43,590: INFO: app]: ID card image loaded.
+[2024-12-12 00:58:43,608: INFO: preprocess]: contours are found at, (0, 0, 736, 552)
+[2024-12-12 00:58:43,608: INFO: utils]: File exists at C:\Users\HARSHUL\Desktop\ekyc\E-KYC-\data\02_intermediate_data\contour_id.jpg
+[2024-12-12 00:58:43,620: INFO: app]: ID card ROI extracted.
+[2024-12-12 00:58:43,620: INFO: face_verification]: Extracting face...
+[2024-12-12 00:58:43,728: INFO: face_verification]: Extracted face saved at: C:\Users\HARSHUL\Desktop\ekyc\E-KYC-\data\02_intermediate_data\extracted_face.jpg
+[2024-12-12 00:58:43,732: INFO: utils]: File exists at data\02_intermediate_data\face_image.jpg
+[2024-12-12 00:58:43,734: INFO: preprocess]: Image saved successfully: data\02_intermediate_data\face_image.jpg
+[2024-12-12 00:58:43,734: INFO: app]: Faces extracted and saved.
+[2024-12-12 00:58:43,734: INFO: face_verification]: Verifying the images....
+[2024-12-12 00:58:43,734: INFO: utils]: File exists at data\02_intermediate_data\face_image.jpg
+[2024-12-12 00:58:43,734: INFO: utils]: File exists at C:\Users\HARSHUL\Desktop\ekyc\E-KYC-\data\02_intermediate_data\extracted_face.jpg
+[2024-12-12 00:59:23,298: INFO: app]: Page layout set to wider configuration.
+[2024-12-12 00:59:23,300: INFO: app]: Custom theme applied to Streamlit app.
+[2024-12-12 00:59:23,303: INFO: app]: ID card type selected: PAN
+[2024-12-12 00:59:23,303: INFO: app]: Header set for PAN Card registration.
+[2024-12-12 00:59:23,317: INFO: app]: Face image loaded.
+[2024-12-12 00:59:23,328: INFO: app]: ID card image loaded.
+[2024-12-12 00:59:23,352: INFO: preprocess]: contours are found at, (0, 0, 736, 552)
+[2024-12-12 00:59:23,354: INFO: utils]: File exists at C:\Users\HARSHUL\Desktop\ekyc\E-KYC-\data\02_intermediate_data\contour_id.jpg
+[2024-12-12 00:59:23,368: INFO: app]: ID card ROI extracted.
+[2024-12-12 00:59:23,368: INFO: face_verification]: Extracting face...
+[2024-12-12 00:59:23,515: INFO: face_verification]: Extracted face saved at: C:\Users\HARSHUL\Desktop\ekyc\E-KYC-\data\02_intermediate_data\extracted_face.jpg
+[2024-12-12 00:59:23,520: INFO: utils]: File exists at data\02_intermediate_data\face_image.jpg
+[2024-12-12 00:59:23,523: INFO: preprocess]: Image saved successfully: data\02_intermediate_data\face_image.jpg
+[2024-12-12 00:59:23,523: INFO: app]: Faces extracted and saved.
+[2024-12-12 00:59:23,523: INFO: face_verification]: Verifying the images....
+[2024-12-12 00:59:23,524: INFO: utils]: File exists at data\02_intermediate_data\face_image.jpg
+[2024-12-12 00:59:23,524: INFO: utils]: File exists at C:\Users\HARSHUL\Desktop\ekyc\E-KYC-\data\02_intermediate_data\extracted_face.jpg
+[2024-12-12 00:59:37,052: INFO: app]: Page layout set to wider configuration.
+[2024-12-12 00:59:37,055: INFO: app]: Custom theme applied to Streamlit app.
+[2024-12-12 00:59:37,057: INFO: app]: ID card type selected: PAN
+[2024-12-12 00:59:37,057: INFO: app]: Header set for PAN Card registration.
+[2024-12-12 00:59:37,073: INFO: app]: Face image loaded.
+[2024-12-12 00:59:37,081: INFO: app]: ID card image loaded.
+[2024-12-12 00:59:37,104: INFO: preprocess]: contours are found at, (0, 0, 736, 552)
+[2024-12-12 00:59:37,105: INFO: utils]: File exists at C:\Users\HARSHUL\Desktop\ekyc\E-KYC-\data\02_intermediate_data\contour_id.jpg
+[2024-12-12 00:59:37,124: INFO: app]: ID card ROI extracted.
+[2024-12-12 00:59:37,124: INFO: face_verification]: Extracting face...
+[2024-12-12 00:59:37,265: INFO: face_verification]: Extracted face saved at: C:\Users\HARSHUL\Desktop\ekyc\E-KYC-\data\02_intermediate_data\extracted_face.jpg
+[2024-12-12 00:59:37,269: INFO: utils]: File exists at data\02_intermediate_data\face_image.jpg
+[2024-12-12 00:59:37,271: INFO: preprocess]: Image saved successfully: data\02_intermediate_data\face_image.jpg
+[2024-12-12 00:59:37,271: INFO: app]: Faces extracted and saved.
+[2024-12-12 00:59:37,271: INFO: face_verification]: Verifying the images....
+[2024-12-12 00:59:37,271: INFO: utils]: File exists at data\02_intermediate_data\face_image.jpg
+[2024-12-12 00:59:37,271: INFO: utils]: File exists at C:\Users\HARSHUL\Desktop\ekyc\E-KYC-\data\02_intermediate_data\extracted_face.jpg
+[2024-12-12 01:00:07,983: INFO: app]: Page layout set to wider configuration.
+[2024-12-12 01:00:07,985: INFO: app]: Custom theme applied to Streamlit app.
+[2024-12-12 01:00:07,988: INFO: app]: ID card type selected: PAN
+[2024-12-12 01:00:07,988: INFO: app]: Header set for PAN Card registration.
+[2024-12-12 01:01:02,685: INFO: app]: Page layout set to wider configuration.
+[2024-12-12 01:01:02,686: INFO: app]: Custom theme applied to Streamlit app.
+[2024-12-12 01:01:02,690: INFO: app]: ID card type selected: PAN
+[2024-12-12 01:01:02,690: INFO: app]: Header set for PAN Card registration.
+[2024-12-12 01:01:02,691: INFO: preprocess]: Error reading image: 'NoneType' object has no attribute 'read'
+[2024-12-12 01:01:02,692: INFO: app]: Face image loaded.
+[2024-12-12 01:01:02,692: ERROR: app]: No face image uploaded.
+[2024-12-12 01:01:08,810: INFO: app]: Page layout set to wider configuration.
+[2024-12-12 01:01:08,811: INFO: app]: Custom theme applied to Streamlit app.
+[2024-12-12 01:01:08,813: INFO: app]: ID card type selected: PAN
+[2024-12-12 01:01:08,813: INFO: app]: Header set for PAN Card registration.
+[2024-12-12 01:01:08,816: INFO: app]: Face image loaded.
+[2024-12-12 01:01:08,823: INFO: app]: ID card image loaded.
+[2024-12-12 01:01:08,842: INFO: preprocess]: contours are found at, (133, 54, 743, 466)
+[2024-12-12 01:01:08,843: INFO: utils]: File exists at C:\Users\HARSHUL\Desktop\ekyc\E-KYC-\data\02_intermediate_data\contour_id.jpg
+[2024-12-12 01:01:08,857: INFO: app]: ID card ROI extracted.
+[2024-12-12 01:01:08,857: INFO: face_verification]: Extracting face...
+[2024-12-12 01:01:08,948: INFO: face_verification]: Extracted face saved at: C:\Users\HARSHUL\Desktop\ekyc\E-KYC-\data\02_intermediate_data\extracted_face.jpg
+[2024-12-12 01:01:08,951: INFO: utils]: File exists at data\02_intermediate_data\face_image.jpg
+[2024-12-12 01:01:08,953: INFO: preprocess]: Image saved successfully: data\02_intermediate_data\face_image.jpg
+[2024-12-12 01:01:08,954: INFO: app]: Faces extracted and saved.
+[2024-12-12 01:01:08,954: INFO: face_verification]: Verifying the images....
+[2024-12-12 01:01:08,954: INFO: utils]: File exists at data\02_intermediate_data\face_image.jpg
+[2024-12-12 01:01:08,954: INFO: utils]: File exists at C:\Users\HARSHUL\Desktop\ekyc\E-KYC-\data\02_intermediate_data\extracted_face.jpg
+[2024-12-12 01:01:09,527: INFO: face_verification]: Faces are verified as the same person
+[2024-12-12 01:01:09,527: INFO: app]: Face verification status: successful.
+[2024-12-12 01:01:09,527: INFO: ocr_engine]: Text Extraction Started...
+[2024-12-12 01:01:09,533: WARNING: easyocr]: Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+[2024-12-12 01:01:11,796: INFO: ocr_engine]: Inside Try-Catch...
+[2024-12-12 01:01:14,783: INFO: ocr_engine]: Extracted Text: |Governmentonindia|Abhishek Tiwari|DOB|07/05/2002|MALE|8|8173 2997 3675|
+[2024-12-12 01:01:14,784: INFO: app]: Text extracted and information parsed from ID card.
+[2024-12-12 01:01:14,859: INFO: sql_connection]: No records found.
+[2024-12-12 01:01:14,866: INFO: sql_connection]: No records found.
+[2024-12-12 01:01:14,866: INFO: sql_connection]: No duplicate records found.
+[2024-12-12 01:04:57,242: INFO: app]: Page layout set to wider configuration.
+[2024-12-12 01:04:57,243: INFO: app]: Custom theme applied to Streamlit app.
+[2024-12-12 01:04:57,244: INFO: app]: ID card type selected: PAN
+[2024-12-12 01:04:57,245: INFO: app]: Header set for PAN Card registration.
+[2024-12-12 01:04:57,246: INFO: preprocess]: Error reading image: 'NoneType' object has no attribute 'read'
+[2024-12-12 01:04:57,247: INFO: app]: Face image loaded.
+[2024-12-12 01:04:57,247: ERROR: app]: No face image uploaded.
+[2024-12-12 01:04:58,365: INFO: app]: Page layout set to wider configuration.
+[2024-12-12 01:04:58,367: INFO: app]: Custom theme applied to Streamlit app.
+[2024-12-12 01:04:58,368: INFO: app]: ID card type selected: PAN
+[2024-12-12 01:04:58,369: INFO: app]: Header set for PAN Card registration.
+[2024-12-12 01:05:09,428: INFO: app]: Page layout set to wider configuration.
+[2024-12-12 01:05:09,429: INFO: app]: Custom theme applied to Streamlit app.
+[2024-12-12 01:05:09,430: INFO: app]: ID card type selected: PAN
+[2024-12-12 01:05:09,431: INFO: app]: Header set for PAN Card registration.
+[2024-12-12 01:05:09,433: INFO: preprocess]: Error reading image: 'NoneType' object has no attribute 'read'
+[2024-12-12 01:05:09,433: INFO: app]: Face image loaded.
+[2024-12-12 01:05:09,434: ERROR: app]: No face image uploaded.
+[2024-12-12 01:05:22,526: INFO: app]: Page layout set to wider configuration.
+[2024-12-12 01:05:22,527: INFO: app]: Custom theme applied to Streamlit app.
+[2024-12-12 01:05:22,528: INFO: app]: ID card type selected: PAN
+[2024-12-12 01:05:22,529: INFO: app]: Header set for PAN Card registration.
+[2024-12-12 01:05:22,531: INFO: app]: Face image loaded.
+[2024-12-12 01:05:22,542: INFO: app]: ID card image loaded.
+[2024-12-12 01:05:22,545: INFO: preprocess]: contours are found at, (0, 0, 528, 352)
+[2024-12-12 01:05:22,546: INFO: utils]: File exists at C:\Users\HARSHUL\Desktop\ekyc\E-KYC-\data\02_intermediate_data\contour_id.jpg
+[2024-12-12 01:05:22,553: INFO: app]: ID card ROI extracted.
+[2024-12-12 01:05:22,554: INFO: face_verification]: Extracting face...
+[2024-12-12 01:05:22,634: INFO: face_verification]: Extracted face saved at: C:\Users\HARSHUL\Desktop\ekyc\E-KYC-\data\02_intermediate_data\extracted_face.jpg
+[2024-12-12 01:05:22,635: INFO: utils]: File exists at data\02_intermediate_data\face_image.jpg
+[2024-12-12 01:05:22,636: INFO: preprocess]: Image saved successfully: data\02_intermediate_data\face_image.jpg
+[2024-12-12 01:05:22,636: INFO: app]: Faces extracted and saved.
+[2024-12-12 01:05:22,637: INFO: face_verification]: Verifying the images....
+[2024-12-12 01:05:22,637: INFO: utils]: File exists at data\02_intermediate_data\face_image.jpg
+[2024-12-12 01:05:22,637: INFO: utils]: File exists at C:\Users\HARSHUL\Desktop\ekyc\E-KYC-\data\02_intermediate_data\extracted_face.jpg
+[2024-12-12 01:05:23,230: INFO: face_verification]: Faces are verified as the same person
+[2024-12-12 01:05:23,230: INFO: app]: Face verification status: successful.
+[2024-12-12 01:05:23,230: INFO: ocr_engine]: Text Extraction Started...
+[2024-12-12 01:05:23,232: WARNING: easyocr]: Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+[2024-12-12 01:05:25,220: INFO: ocr_engine]: Inside Try-Catch...
+[2024-12-12 01:05:26,901: INFO: ocr_engine]: Extracted Text: |INCOME TAX DEPARTMENT|GOVT OF INDIA|HANSRAJ YADAV|RAMKISHOR YADAV|20/12/1986|Permanent Account|ACMPY3865H|Slgnature|
+[2024-12-12 01:05:26,902: INFO: app]: Text extracted and information parsed from ID card.
+[2024-12-12 01:05:26,906: INFO: sql_connection]: No records found.
+[2024-12-12 01:05:26,908: INFO: sql_connection]: No records found.
+[2024-12-12 01:05:26,908: INFO: sql_connection]: No duplicate records found.
+[2024-12-12 01:10:46,744: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2024-12-12 01:10:46,751: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2024-12-12 01:10:46,783: INFO: face_verification]: Extracting face...
+[2024-12-12 01:10:47,101: INFO: face_verification]: Extracted face saved at: C:\Users\HARSHUL\Desktop\ekyc\E-KYC-\data\02_intermediate_data\extracted_face.jpg
+[2024-12-12 01:10:47,411: INFO: sql_connection]: Connection established with database
+[2024-12-12 01:10:47,415: INFO: app]: Page layout set to wider configuration.
+[2024-12-12 01:10:47,415: INFO: app]: Custom theme applied to Streamlit app.
+[2024-12-12 01:10:47,416: INFO: app]: ID card type selected: PAN
+[2024-12-12 01:10:47,417: INFO: app]: Header set for PAN Card registration.
+[2024-12-12 01:11:09,769: INFO: app]: Page layout set to wider configuration.
+[2024-12-12 01:11:09,770: INFO: app]: Custom theme applied to Streamlit app.
+[2024-12-12 01:11:09,771: INFO: app]: ID card type selected: PAN
+[2024-12-12 01:11:09,772: INFO: app]: Header set for PAN Card registration.
+[2024-12-12 01:11:09,773: INFO: preprocess]: Error reading image: 'NoneType' object has no attribute 'read'
+[2024-12-12 01:11:09,773: INFO: app]: Face image loaded.
+[2024-12-12 01:11:09,775: ERROR: app]: No face image uploaded.
+[2024-12-12 01:11:13,098: INFO: app]: Page layout set to wider configuration.
+[2024-12-12 01:11:13,099: INFO: app]: Custom theme applied to Streamlit app.
+[2024-12-12 01:11:13,100: INFO: app]: ID card type selected: PAN
+[2024-12-12 01:11:13,101: INFO: app]: Header set for PAN Card registration.
+[2024-12-12 01:11:13,103: INFO: app]: Face image loaded.
+[2024-12-12 01:11:13,110: INFO: app]: ID card image loaded.
+[2024-12-12 01:11:13,117: INFO: preprocess]: contours are found at, (133, 54, 743, 466)
+[2024-12-12 01:11:13,117: INFO: utils]: File exists at C:\Users\HARSHUL\Desktop\ekyc\E-KYC-\data\02_intermediate_data\contour_id.jpg
+[2024-12-12 01:11:13,130: INFO: app]: ID card ROI extracted.
+[2024-12-12 01:11:13,130: INFO: face_verification]: Extracting face...
+[2024-12-12 01:11:13,230: INFO: face_verification]: Extracted face saved at: C:\Users\HARSHUL\Desktop\ekyc\E-KYC-\data\02_intermediate_data\extracted_face.jpg
+[2024-12-12 01:11:13,233: INFO: utils]: File exists at data\02_intermediate_data\face_image.jpg
+[2024-12-12 01:11:13,234: INFO: preprocess]: Image saved successfully: data\02_intermediate_data\face_image.jpg
+[2024-12-12 01:11:13,235: INFO: app]: Faces extracted and saved.
+[2024-12-12 01:11:13,235: INFO: face_verification]: Verifying the images....
+[2024-12-12 01:11:13,235: INFO: utils]: File exists at data\02_intermediate_data\face_image.jpg
+[2024-12-12 01:11:13,235: INFO: utils]: File exists at C:\Users\HARSHUL\Desktop\ekyc\E-KYC-\data\02_intermediate_data\extracted_face.jpg
+[2024-12-12 01:11:13,852: INFO: face_verification]: Faces are verified as the same person
+[2024-12-12 01:11:13,852: INFO: app]: Face verification status: successful.
+[2024-12-12 01:11:13,852: INFO: ocr_engine]: Text Extraction Started...
+[2024-12-12 01:11:13,853: WARNING: easyocr]: Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+[2024-12-12 01:11:16,081: INFO: ocr_engine]: Inside Try-Catch...
+[2024-12-12 01:11:18,602: INFO: ocr_engine]: Extracted Text: |Governmentonindia|Abhishek Tiwari|DOB|07/05/2002|MALE|8|8173 2997 3675|
+[2024-12-12 01:11:18,603: INFO: app]: Text extracted and information parsed from ID card.
+[2024-12-12 01:11:18,606: ERROR: app]: Error converting DOB: time data '' does not match format '%d-%m-%Y'
+[2024-12-12 01:13:31,163: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2024-12-12 01:13:31,168: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2024-12-12 01:13:31,199: INFO: face_verification]: Extracting face...
+[2024-12-12 01:13:31,500: INFO: face_verification]: Extracted face saved at: C:\Users\HARSHUL\Desktop\ekyc\E-KYC-\data\02_intermediate_data\extracted_face.jpg
+[2024-12-12 01:13:31,761: INFO: sql_connection]: Connection established with database
+[2024-12-12 01:13:31,765: INFO: app]: Page layout set to wider configuration.
+[2024-12-12 01:13:31,766: INFO: app]: Custom theme applied to Streamlit app.
+[2024-12-12 01:13:31,767: INFO: app]: ID card type selected: PAN
+[2024-12-12 01:13:31,768: INFO: app]: Header set for PAN Card registration.
+[2024-12-12 01:13:38,605: INFO: app]: Page layout set to wider configuration.
+[2024-12-12 01:13:38,606: INFO: app]: Custom theme applied to Streamlit app.
+[2024-12-12 01:13:38,607: INFO: app]: ID card type selected: PAN
+[2024-12-12 01:13:38,607: INFO: app]: Header set for PAN Card registration.
+[2024-12-12 01:13:38,609: INFO: preprocess]: Error reading image: 'NoneType' object has no attribute 'read'
+[2024-12-12 01:13:38,609: INFO: app]: Face image loaded.
+[2024-12-12 01:13:38,610: ERROR: app]: No face image uploaded.
+[2024-12-12 01:13:41,199: INFO: app]: Page layout set to wider configuration.
+[2024-12-12 01:13:41,200: INFO: app]: Custom theme applied to Streamlit app.
+[2024-12-12 01:13:41,202: INFO: app]: ID card type selected: PAN
+[2024-12-12 01:13:41,202: INFO: app]: Header set for PAN Card registration.
+[2024-12-12 01:13:41,204: INFO: app]: Face image loaded.
+[2024-12-12 01:13:41,212: INFO: app]: ID card image loaded.
+[2024-12-12 01:13:41,219: INFO: preprocess]: contours are found at, (133, 54, 743, 466)
+[2024-12-12 01:13:41,219: INFO: utils]: File exists at C:\Users\HARSHUL\Desktop\ekyc\E-KYC-\data\02_intermediate_data\contour_id.jpg
+[2024-12-12 01:13:41,229: INFO: app]: ID card ROI extracted.
+[2024-12-12 01:13:41,229: INFO: face_verification]: Extracting face...
+[2024-12-12 01:13:41,321: INFO: face_verification]: Extracted face saved at: C:\Users\HARSHUL\Desktop\ekyc\E-KYC-\data\02_intermediate_data\extracted_face.jpg
+[2024-12-12 01:13:41,324: INFO: utils]: File exists at data\02_intermediate_data\face_image.jpg
+[2024-12-12 01:13:41,326: INFO: preprocess]: Image saved successfully: data\02_intermediate_data\face_image.jpg
+[2024-12-12 01:13:41,326: INFO: app]: Faces extracted and saved.
+[2024-12-12 01:13:41,326: INFO: face_verification]: Verifying the images....
+[2024-12-12 01:13:41,326: INFO: utils]: File exists at data\02_intermediate_data\face_image.jpg
+[2024-12-12 01:13:41,327: INFO: utils]: File exists at C:\Users\HARSHUL\Desktop\ekyc\E-KYC-\data\02_intermediate_data\extracted_face.jpg
+[2024-12-12 01:13:41,920: INFO: face_verification]: Faces are verified as the same person
+[2024-12-12 01:13:41,921: INFO: app]: Face verification status: successful.
+[2024-12-12 01:13:41,921: INFO: ocr_engine]: Text Extraction Started...
+[2024-12-12 01:13:41,921: WARNING: easyocr]: Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+[2024-12-12 01:13:44,137: INFO: ocr_engine]: Inside Try-Catch...
+[2024-12-12 01:13:46,622: INFO: ocr_engine]: Extracted Text: |Governmentonindia|Abhishek Tiwari|DOB|07/05/2002|MALE|8|8173 2997 3675|
+[2024-12-12 01:13:46,623: INFO: app]: Text extracted and information parsed from ID card.
+[2024-12-12 01:13:46,627: INFO: sql_connection]: No records found.
+[2024-12-12 01:13:46,633: INFO: sql_connection]: No records found.
+[2024-12-12 01:13:46,634: INFO: sql_connection]: No duplicate records found.
+[2024-12-12 01:13:56,552: INFO: app]: Page layout set to wider configuration.
+[2024-12-12 01:13:56,552: INFO: app]: Custom theme applied to Streamlit app.
+[2024-12-12 01:13:56,554: INFO: app]: ID card type selected: PAN
+[2024-12-12 01:13:56,554: INFO: app]: Header set for PAN Card registration.
+[2024-12-12 01:13:56,556: INFO: preprocess]: Error reading image: 'NoneType' object has no attribute 'read'
+[2024-12-12 01:13:56,556: INFO: app]: Face image loaded.
+[2024-12-12 01:13:56,556: ERROR: app]: No face image uploaded.
+[2024-12-12 01:14:02,332: INFO: app]: Page layout set to wider configuration.
+[2024-12-12 01:14:02,332: INFO: app]: Custom theme applied to Streamlit app.
+[2024-12-12 01:14:02,333: INFO: app]: ID card type selected: PAN
+[2024-12-12 01:14:02,334: INFO: app]: Header set for PAN Card registration.
+[2024-12-12 01:14:02,335: INFO: app]: Face image loaded.
+[2024-12-12 01:14:02,343: INFO: app]: ID card image loaded.
+[2024-12-12 01:14:02,351: INFO: preprocess]: contours are found at, (133, 54, 743, 466)
+[2024-12-12 01:14:02,351: INFO: utils]: File exists at C:\Users\HARSHUL\Desktop\ekyc\E-KYC-\data\02_intermediate_data\contour_id.jpg
+[2024-12-12 01:14:02,359: INFO: app]: ID card ROI extracted.
+[2024-12-12 01:14:02,359: INFO: face_verification]: Extracting face...
+[2024-12-12 01:14:02,451: INFO: face_verification]: Extracted face saved at: C:\Users\HARSHUL\Desktop\ekyc\E-KYC-\data\02_intermediate_data\extracted_face.jpg
+[2024-12-12 01:14:02,454: INFO: utils]: File exists at data\02_intermediate_data\face_image.jpg
+[2024-12-12 01:14:02,455: INFO: preprocess]: Image saved successfully: data\02_intermediate_data\face_image.jpg
+[2024-12-12 01:14:02,456: INFO: app]: Faces extracted and saved.
+[2024-12-12 01:14:02,456: INFO: face_verification]: Verifying the images....
+[2024-12-12 01:14:02,456: INFO: utils]: File exists at data\02_intermediate_data\face_image.jpg
+[2024-12-12 01:14:02,456: INFO: utils]: File exists at C:\Users\HARSHUL\Desktop\ekyc\E-KYC-\data\02_intermediate_data\extracted_face.jpg
+[2024-12-12 01:14:03,035: INFO: face_verification]: Faces are not verified as the same person
+[2024-12-12 01:14:03,035: INFO: app]: Face verification status: failed.
+[2024-12-12 01:14:08,004: INFO: app]: Page layout set to wider configuration.
+[2024-12-12 01:14:08,004: INFO: app]: Custom theme applied to Streamlit app.
+[2024-12-12 01:14:08,006: INFO: app]: ID card type selected: PAN
+[2024-12-12 01:14:08,006: INFO: app]: Header set for PAN Card registration.
+[2024-12-12 01:14:08,008: INFO: preprocess]: Error reading image: 'NoneType' object has no attribute 'read'
+[2024-12-12 01:14:08,008: INFO: app]: Face image loaded.
+[2024-12-12 01:14:08,009: ERROR: app]: No face image uploaded.
+[2024-12-12 01:14:09,017: INFO: app]: Page layout set to wider configuration.
+[2024-12-12 01:14:09,018: INFO: app]: Custom theme applied to Streamlit app.
+[2024-12-12 01:14:09,019: INFO: app]: ID card type selected: PAN
+[2024-12-12 01:14:09,019: INFO: app]: Header set for PAN Card registration.
+[2024-12-12 02:42:12,425: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2024-12-12 02:42:29,419: WARNING: module_wrapper]: From C:\Users\HARSHUL\Desktop\ekyc\E-KYC-\project\Lib\site-packages\tf_keras\src\losses.py:2976: The name tf.losses.sparse_softmax_cross_entropy is deprecated. Please use tf.compat.v1.losses.sparse_softmax_cross_entropy instead.
+
+[2024-12-12 02:42:30,049: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2024-12-12 02:42:30,080: INFO: face_verification]: Extracting face...
+[2024-12-12 02:42:30,729: INFO: face_verification]: Extracted face saved at: C:\Users\HARSHUL\Desktop\ekyc\E-KYC-\data\02_intermediate_data\extracted_face.jpg
+[2024-12-12 02:42:31,087: INFO: sql_connection]: Connection established with database
+[2024-12-12 10:34:57,055: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2024-12-12 10:35:13,319: WARNING: module_wrapper]: From C:\Users\HARSHUL\Desktop\ekyc\E-KYC-\project\Lib\site-packages\tf_keras\src\losses.py:2976: The name tf.losses.sparse_softmax_cross_entropy is deprecated. Please use tf.compat.v1.losses.sparse_softmax_cross_entropy instead.
+
+[2024-12-12 10:35:14,271: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2024-12-12 10:35:14,318: INFO: face_verification]: Extracting face...
+[2024-12-12 10:35:15,111: INFO: face_verification]: Extracted face saved at: C:\Users\HARSHUL\Desktop\ekyc\E-KYC-\data\02_intermediate_data\extracted_face.jpg
+[2024-12-12 10:35:15,592: INFO: sql_connection]: Connection established with database
+[2024-12-12 10:35:16,354: INFO: app]: Page layout set to wider configuration.
+[2024-12-12 10:35:16,355: INFO: app]: Custom theme applied to Streamlit app.
+[2024-12-12 10:35:16,356: INFO: app]: ID card type selected: PAN
+[2024-12-12 10:35:16,357: INFO: app]: Header set for PAN Card registration.
+[2024-12-12 12:14:35,163: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2024-12-12 12:14:48,162: WARNING: module_wrapper]: From C:\Users\HARSHUL\Desktop\ekyc\E-KYC-\project\Lib\site-packages\tf_keras\src\losses.py:2976: The name tf.losses.sparse_softmax_cross_entropy is deprecated. Please use tf.compat.v1.losses.sparse_softmax_cross_entropy instead.
+
+[2024-12-12 12:14:48,963: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2024-12-12 12:14:49,006: INFO: face_verification]: Extracting face...
+[2024-12-12 12:14:49,820: INFO: face_verification]: Extracted face saved at: C:\Users\HARSHUL\Desktop\ekyc\E-KYC-\data\02_intermediate_data\extracted_face.jpg
+[2024-12-12 12:14:50,290: INFO: sql_connection]: Connection established with database
+[2024-12-12 12:14:50,894: INFO: app]: Page layout set to wider configuration.
+[2024-12-12 12:14:50,894: INFO: app]: Custom theme applied to Streamlit app.
+[2024-12-12 12:14:50,896: INFO: app]: ID card type selected: PAN
+[2024-12-12 12:14:50,897: INFO: app]: Header set for PAN Card registration.
+[2024-12-12 12:17:50,785: INFO: app]: Page layout set to wider configuration.
+[2024-12-12 12:17:50,785: INFO: app]: Custom theme applied to Streamlit app.
+[2024-12-12 12:17:50,787: INFO: app]: ID card type selected: PAN
+[2024-12-12 12:17:50,787: INFO: app]: Header set for PAN Card registration.
+[2024-12-12 12:17:50,788: INFO: preprocess]: Error reading image: 'NoneType' object has no attribute 'read'
+[2024-12-12 12:17:50,789: INFO: app]: Face image loaded.
+[2024-12-12 12:17:50,790: ERROR: app]: No face image uploaded.
+[2024-12-12 12:17:59,783: INFO: app]: Page layout set to wider configuration.
+[2024-12-12 12:17:59,784: INFO: app]: Custom theme applied to Streamlit app.
+[2024-12-12 12:17:59,786: INFO: app]: ID card type selected: PAN
+[2024-12-12 12:17:59,786: INFO: app]: Header set for PAN Card registration.
+[2024-12-12 12:17:59,789: INFO: app]: Face image loaded.
+[2024-12-12 12:17:59,797: INFO: app]: ID card image loaded.
+[2024-12-12 12:17:59,815: INFO: preprocess]: contours are found at, (0, 0, 736, 552)
+[2024-12-12 12:17:59,816: INFO: utils]: File exists at C:\Users\HARSHUL\Desktop\ekyc\E-KYC-\data\02_intermediate_data\contour_id.jpg
+[2024-12-12 12:17:59,830: INFO: app]: ID card ROI extracted.
+[2024-12-12 12:17:59,830: INFO: face_verification]: Extracting face...
+[2024-12-12 12:17:59,939: INFO: face_verification]: Extracted face saved at: C:\Users\HARSHUL\Desktop\ekyc\E-KYC-\data\02_intermediate_data\extracted_face.jpg
+[2024-12-12 12:17:59,942: INFO: utils]: File exists at data\02_intermediate_data\face_image.jpg
+[2024-12-12 12:17:59,943: INFO: preprocess]: Image saved successfully: data\02_intermediate_data\face_image.jpg
+[2024-12-12 12:17:59,943: INFO: app]: Faces extracted and saved.
+[2024-12-12 12:17:59,944: INFO: face_verification]: Verifying the images....
+[2024-12-12 12:17:59,944: INFO: utils]: File exists at data\02_intermediate_data\face_image.jpg
+[2024-12-12 12:17:59,944: INFO: utils]: File exists at C:\Users\HARSHUL\Desktop\ekyc\E-KYC-\data\02_intermediate_data\extracted_face.jpg
+[2024-12-12 12:18:21,375: INFO: app]: Page layout set to wider configuration.
+[2024-12-12 12:18:21,376: INFO: app]: Custom theme applied to Streamlit app.
+[2024-12-12 12:18:21,377: INFO: app]: ID card type selected: PAN
+[2024-12-12 12:18:21,378: INFO: app]: Header set for PAN Card registration.
+[2024-12-12 12:18:21,381: INFO: app]: Face image loaded.
+[2024-12-12 12:18:21,390: INFO: app]: ID card image loaded.
+[2024-12-12 12:18:21,407: INFO: preprocess]: contours are found at, (0, 0, 736, 552)
+[2024-12-12 12:18:21,407: INFO: utils]: File exists at C:\Users\HARSHUL\Desktop\ekyc\E-KYC-\data\02_intermediate_data\contour_id.jpg
+[2024-12-12 12:18:21,420: INFO: app]: ID card ROI extracted.
+[2024-12-12 12:18:21,420: INFO: face_verification]: Extracting face...
+[2024-12-12 12:18:21,532: INFO: face_verification]: Extracted face saved at: C:\Users\HARSHUL\Desktop\ekyc\E-KYC-\data\02_intermediate_data\extracted_face.jpg
+[2024-12-12 12:18:21,535: INFO: utils]: File exists at data\02_intermediate_data\face_image.jpg
+[2024-12-12 12:18:21,537: INFO: preprocess]: Image saved successfully: data\02_intermediate_data\face_image.jpg
+[2024-12-12 12:18:21,537: INFO: app]: Faces extracted and saved.
+[2024-12-12 12:18:21,538: INFO: face_verification]: Verifying the images....
+[2024-12-12 12:18:21,538: INFO: utils]: File exists at data\02_intermediate_data\face_image.jpg
+[2024-12-12 12:18:21,538: INFO: utils]: File exists at C:\Users\HARSHUL\Desktop\ekyc\E-KYC-\data\02_intermediate_data\extracted_face.jpg
+[2024-12-12 12:18:25,745: INFO: app]: Page layout set to wider configuration.
+[2024-12-12 12:18:25,746: INFO: app]: Custom theme applied to Streamlit app.
+[2024-12-12 12:18:25,747: INFO: app]: ID card type selected: PAN
+[2024-12-12 12:18:25,747: INFO: app]: Header set for PAN Card registration.
+[2024-12-12 12:18:32,087: INFO: app]: Page layout set to wider configuration.
+[2024-12-12 12:18:32,088: INFO: app]: Custom theme applied to Streamlit app.
+[2024-12-12 12:18:32,089: INFO: app]: ID card type selected: PAN
+[2024-12-12 12:18:32,090: INFO: app]: Header set for PAN Card registration.
+[2024-12-12 12:18:32,091: INFO: preprocess]: Error reading image: 'NoneType' object has no attribute 'read'
+[2024-12-12 12:18:32,091: INFO: app]: Face image loaded.
+[2024-12-12 12:18:32,092: ERROR: app]: No face image uploaded.
+[2024-12-12 12:18:37,697: INFO: app]: Page layout set to wider configuration.
+[2024-12-12 12:18:37,698: INFO: app]: Custom theme applied to Streamlit app.
+[2024-12-12 12:18:37,699: INFO: app]: ID card type selected: PAN
+[2024-12-12 12:18:37,700: INFO: app]: Header set for PAN Card registration.
+[2024-12-12 12:18:37,702: INFO: app]: Face image loaded.
+[2024-12-12 12:18:37,734: INFO: app]: ID card image loaded.
+[2024-12-12 12:18:37,746: INFO: preprocess]: contours are found at, (0, 0, 1600, 1150)
+[2024-12-12 12:18:37,747: INFO: utils]: File exists at C:\Users\HARSHUL\Desktop\ekyc\E-KYC-\data\02_intermediate_data\contour_id.jpg
+[2024-12-12 12:18:37,786: INFO: app]: ID card ROI extracted.
+[2024-12-12 12:18:37,786: INFO: face_verification]: Extracting face...
+[2024-12-12 12:18:38,086: INFO: face_verification]: Extracted face saved at: C:\Users\HARSHUL\Desktop\ekyc\E-KYC-\data\02_intermediate_data\extracted_face.jpg
+[2024-12-12 12:18:38,098: INFO: utils]: File exists at data\02_intermediate_data\face_image.jpg
+[2024-12-12 12:18:38,099: INFO: preprocess]: Image saved successfully: data\02_intermediate_data\face_image.jpg
+[2024-12-12 12:18:38,100: INFO: app]: Faces extracted and saved.
+[2024-12-12 12:18:38,100: INFO: face_verification]: Verifying the images....
+[2024-12-12 12:18:38,100: INFO: utils]: File exists at data\02_intermediate_data\face_image.jpg
+[2024-12-12 12:18:38,100: INFO: utils]: File exists at C:\Users\HARSHUL\Desktop\ekyc\E-KYC-\data\02_intermediate_data\extracted_face.jpg
+[2024-12-12 12:18:38,801: INFO: face_verification]: Faces are not verified as the same person
+[2024-12-12 12:18:38,802: INFO: app]: Face verification status: failed.
+[2024-12-12 12:18:46,556: INFO: app]: Page layout set to wider configuration.
+[2024-12-12 12:18:46,556: INFO: app]: Custom theme applied to Streamlit app.
+[2024-12-12 12:18:46,558: INFO: app]: ID card type selected: PAN
+[2024-12-12 12:18:46,560: INFO: app]: Header set for PAN Card registration.
+[2024-12-12 12:18:46,561: INFO: preprocess]: Error reading image: 'NoneType' object has no attribute 'read'
+[2024-12-12 12:18:46,561: INFO: app]: Face image loaded.
+[2024-12-12 12:18:46,562: ERROR: app]: No face image uploaded.
+[2024-12-12 12:18:55,403: INFO: app]: Page layout set to wider configuration.
+[2024-12-12 12:18:55,404: INFO: app]: Custom theme applied to Streamlit app.
+[2024-12-12 12:18:55,405: INFO: app]: ID card type selected: PAN
+[2024-12-12 12:18:55,406: INFO: app]: Header set for PAN Card registration.
+[2024-12-12 12:19:02,030: INFO: app]: Page layout set to wider configuration.
+[2024-12-12 12:19:02,030: INFO: app]: Custom theme applied to Streamlit app.
+[2024-12-12 12:19:02,032: INFO: app]: ID card type selected: PAN
+[2024-12-12 12:19:02,032: INFO: app]: Header set for PAN Card registration.
+[2024-12-12 12:19:02,034: INFO: preprocess]: Error reading image: 'NoneType' object has no attribute 'read'
+[2024-12-12 12:19:02,034: INFO: app]: Face image loaded.
+[2024-12-12 12:19:02,035: ERROR: app]: No face image uploaded.
+[2024-12-12 12:19:06,239: INFO: app]: Page layout set to wider configuration.
+[2024-12-12 12:19:06,240: INFO: app]: Custom theme applied to Streamlit app.
+[2024-12-12 12:19:06,243: INFO: app]: ID card type selected: PAN
+[2024-12-12 12:19:06,243: INFO: app]: Header set for PAN Card registration.
+[2024-12-12 12:19:06,245: INFO: app]: Face image loaded.
+[2024-12-12 12:19:06,248: INFO: app]: ID card image loaded.
+[2024-12-12 12:19:06,251: INFO: preprocess]: contours are found at, (21, 0, 498, 309)
+[2024-12-12 12:19:06,251: INFO: utils]: File exists at C:\Users\HARSHUL\Desktop\ekyc\E-KYC-\data\02_intermediate_data\contour_id.jpg
+[2024-12-12 12:19:06,258: INFO: app]: ID card ROI extracted.
+[2024-12-12 12:19:06,258: INFO: face_verification]: Extracting face...
+[2024-12-12 12:19:06,325: INFO: face_verification]: Extracted face saved at: C:\Users\HARSHUL\Desktop\ekyc\E-KYC-\data\02_intermediate_data\extracted_face.jpg
+[2024-12-12 12:19:06,326: INFO: utils]: File exists at data\02_intermediate_data\face_image.jpg
+[2024-12-12 12:19:06,327: INFO: preprocess]: Image saved successfully: data\02_intermediate_data\face_image.jpg
+[2024-12-12 12:19:06,327: INFO: app]: Faces extracted and saved.
+[2024-12-12 12:19:06,327: INFO: face_verification]: Verifying the images....
+[2024-12-12 12:19:06,327: INFO: utils]: File exists at data\02_intermediate_data\face_image.jpg
+[2024-12-12 12:19:06,327: INFO: utils]: File exists at C:\Users\HARSHUL\Desktop\ekyc\E-KYC-\data\02_intermediate_data\extracted_face.jpg
+[2024-12-12 12:19:06,839: INFO: face_verification]: Faces are not verified as the same person
+[2024-12-12 12:19:06,839: INFO: app]: Face verification status: failed.
+[2024-12-12 12:19:31,123: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2024-12-12 12:19:43,273: WARNING: module_wrapper]: From C:\Users\HARSHUL\Desktop\ekyc\E-KYC-\project\Lib\site-packages\tf_keras\src\losses.py:2976: The name tf.losses.sparse_softmax_cross_entropy is deprecated. Please use tf.compat.v1.losses.sparse_softmax_cross_entropy instead.
+
+[2024-12-12 12:19:43,951: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2024-12-12 12:19:43,982: INFO: face_verification]: Extracting face...
+[2024-12-12 12:19:44,613: INFO: face_verification]: Extracted face saved at: C:\Users\HARSHUL\Desktop\ekyc\E-KYC-\data\02_intermediate_data\extracted_face.jpg
+[2024-12-12 12:19:44,911: INFO: sql_connection]: Connection established with database
+[2024-12-12 12:19:45,312: INFO: app]: Page layout set to wider configuration.
+[2024-12-12 12:19:45,313: INFO: app]: Custom theme applied to Streamlit app.
+[2024-12-12 12:19:45,314: INFO: app]: ID card type selected: PAN
+[2024-12-12 12:19:45,314: INFO: app]: Header set for PAN Card registration.
+[2024-12-12 12:19:52,477: INFO: app]: Page layout set to wider configuration.
+[2024-12-12 12:19:52,477: INFO: app]: Custom theme applied to Streamlit app.
+[2024-12-12 12:19:52,479: INFO: app]: ID card type selected: PAN
+[2024-12-12 12:19:52,480: INFO: app]: Header set for PAN Card registration.
+[2024-12-12 12:19:52,481: INFO: preprocess]: Error reading image: 'NoneType' object has no attribute 'read'
+[2024-12-12 12:19:52,482: INFO: app]: Face image loaded.
+[2024-12-12 12:19:52,482: ERROR: app]: No face image uploaded.
+[2024-12-12 12:19:56,658: INFO: app]: Page layout set to wider configuration.
+[2024-12-12 12:19:56,659: INFO: app]: Custom theme applied to Streamlit app.
+[2024-12-12 12:19:56,660: INFO: app]: ID card type selected: PAN
+[2024-12-12 12:19:56,661: INFO: app]: Header set for PAN Card registration.
+[2024-12-12 12:19:56,662: INFO: app]: Face image loaded.
+[2024-12-12 12:19:56,669: INFO: app]: ID card image loaded.
+[2024-12-12 12:19:56,676: INFO: preprocess]: contours are found at, (133, 54, 743, 466)
+[2024-12-12 12:19:56,677: INFO: utils]: File exists at C:\Users\HARSHUL\Desktop\ekyc\E-KYC-\data\02_intermediate_data\contour_id.jpg
+[2024-12-12 12:19:56,686: INFO: app]: ID card ROI extracted.
+[2024-12-12 12:19:56,687: INFO: face_verification]: Extracting face...
+[2024-12-12 12:19:56,782: INFO: face_verification]: Extracted face saved at: C:\Users\HARSHUL\Desktop\ekyc\E-KYC-\data\02_intermediate_data\extracted_face.jpg
+[2024-12-12 12:19:56,785: INFO: utils]: File exists at data\02_intermediate_data\face_image.jpg
+[2024-12-12 12:19:56,786: INFO: preprocess]: Image saved successfully: data\02_intermediate_data\face_image.jpg
+[2024-12-12 12:19:56,787: INFO: app]: Faces extracted and saved.
+[2024-12-12 12:19:56,787: INFO: face_verification]: Verifying the images....
+[2024-12-12 12:19:56,788: INFO: utils]: File exists at data\02_intermediate_data\face_image.jpg
+[2024-12-12 12:19:56,788: INFO: utils]: File exists at C:\Users\HARSHUL\Desktop\ekyc\E-KYC-\data\02_intermediate_data\extracted_face.jpg
+[2024-12-12 12:20:00,234: INFO: face_verification]: Faces are not verified as the same person
+[2024-12-12 12:20:00,234: INFO: app]: Face verification status: failed.
+[2024-12-12 12:20:14,757: INFO: app]: Page layout set to wider configuration.
+[2024-12-12 12:20:14,758: INFO: app]: Custom theme applied to Streamlit app.
+[2024-12-12 12:20:14,760: INFO: app]: ID card type selected: PAN
+[2024-12-12 12:20:14,760: INFO: app]: Header set for PAN Card registration.
+[2024-12-12 12:20:14,762: INFO: preprocess]: Error reading image: 'NoneType' object has no attribute 'read'
+[2024-12-12 12:20:14,762: INFO: app]: Face image loaded.
+[2024-12-12 12:20:14,762: ERROR: app]: No face image uploaded.
+[2024-12-12 12:20:19,184: INFO: app]: Page layout set to wider configuration.
+[2024-12-12 12:20:19,185: INFO: app]: Custom theme applied to Streamlit app.
+[2024-12-12 12:20:19,186: INFO: app]: ID card type selected: PAN
+[2024-12-12 12:20:19,187: INFO: app]: Header set for PAN Card registration.
+[2024-12-12 12:20:19,189: INFO: app]: Face image loaded.
+[2024-12-12 12:20:19,196: INFO: app]: ID card image loaded.
+[2024-12-12 12:20:19,202: INFO: preprocess]: contours are found at, (133, 54, 743, 466)
+[2024-12-12 12:20:19,202: INFO: utils]: File exists at C:\Users\HARSHUL\Desktop\ekyc\E-KYC-\data\02_intermediate_data\contour_id.jpg
+[2024-12-12 12:20:19,212: INFO: app]: ID card ROI extracted.
+[2024-12-12 12:20:19,212: INFO: face_verification]: Extracting face...
+[2024-12-12 12:20:19,304: INFO: face_verification]: Extracted face saved at: C:\Users\HARSHUL\Desktop\ekyc\E-KYC-\data\02_intermediate_data\extracted_face.jpg
+[2024-12-12 12:20:19,306: INFO: utils]: File exists at data\02_intermediate_data\face_image.jpg
+[2024-12-12 12:20:19,308: INFO: preprocess]: Image saved successfully: data\02_intermediate_data\face_image.jpg
+[2024-12-12 12:20:19,308: INFO: app]: Faces extracted and saved.
+[2024-12-12 12:20:19,309: INFO: face_verification]: Verifying the images....
+[2024-12-12 12:20:19,309: INFO: utils]: File exists at data\02_intermediate_data\face_image.jpg
+[2024-12-12 12:20:19,309: INFO: utils]: File exists at C:\Users\HARSHUL\Desktop\ekyc\E-KYC-\data\02_intermediate_data\extracted_face.jpg
+[2024-12-12 12:20:19,890: INFO: face_verification]: Faces are verified as the same person
+[2024-12-12 12:20:19,891: INFO: app]: Face verification status: successful.
+[2024-12-12 12:20:19,891: INFO: ocr_engine]: Text Extraction Started...
+[2024-12-12 12:20:19,895: WARNING: easyocr]: Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+[2024-12-12 12:20:22,294: INFO: ocr_engine]: Inside Try-Catch...
+[2024-12-12 12:20:24,977: INFO: ocr_engine]: Extracted Text: |Governmentonindia|Abhishek Tiwari|DOB|07/05/2002|MALE|8|8173 2997 3675|
+[2024-12-12 12:20:24,978: INFO: app]: Text extracted and information parsed from ID card.
+[2024-12-12 12:20:25,020: INFO: sql_connection]: No records found.
+[2024-12-12 12:20:25,025: INFO: sql_connection]: No records found.
+[2024-12-12 12:20:25,026: INFO: sql_connection]: No duplicate records found.
+[2025-01-07 15:30:15,845: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2025-01-07 15:30:33,374: WARNING: module_wrapper]: From C:\Users\HARSHUL\Desktop\ekyc\E-KYC\ekyc\Lib\site-packages\tf_keras\src\losses.py:2976: The name tf.losses.sparse_softmax_cross_entropy is deprecated. Please use tf.compat.v1.losses.sparse_softmax_cross_entropy instead.
+
+[2025-01-07 15:30:33,946: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2025-01-07 15:30:33,997: INFO: face_verification]: Extracting face...
+[2025-01-07 15:30:34,799: INFO: face_verification]: Extracted face saved at: C:\Users\HARSHUL\Desktop\ekyc\E-KYC\data\02_intermediate_data\extracted_face.jpg
+[2025-01-07 15:30:35,316: INFO: sql_connection]: Connection established with database
+[2025-01-07 15:30:35,961: INFO: app]: Page layout set to wider configuration.
+[2025-01-07 15:30:35,962: INFO: app]: Custom theme applied to Streamlit app.
+[2025-01-07 15:30:35,964: INFO: app]: ID card type selected: PAN
+[2025-01-07 15:30:35,965: INFO: app]: Header set for PAN Card registration.
+[2025-01-12 21:38:05,347: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2025-01-12 21:38:26,925: WARNING: module_wrapper]: From C:\Users\HARSHUL\Desktop\ekyc\E-KYC\ekyc\Lib\site-packages\tf_keras\src\losses.py:2976: The name tf.losses.sparse_softmax_cross_entropy is deprecated. Please use tf.compat.v1.losses.sparse_softmax_cross_entropy instead.
+
+[2025-01-12 21:38:27,813: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2025-01-12 21:38:27,855: INFO: face_verification]: Extracting face...
+[2025-01-12 21:38:28,685: INFO: face_verification]: Extracted face saved at: C:\Users\HARSHUL\Desktop\ekyc\E-KYC\data\02_intermediate_data\extracted_face.jpg
+[2025-01-12 21:38:29,196: INFO: sql_connection]: Connection established with database
+[2025-01-12 21:38:30,112: INFO: app]: Page layout set to wider configuration.
+[2025-01-12 21:38:30,113: INFO: app]: Custom theme applied to Streamlit app.
+[2025-01-12 21:38:30,115: INFO: app]: ID card type selected: PAN
+[2025-01-12 21:38:30,116: INFO: app]: Header set for PAN Card registration.
+[2025-01-12 21:39:21,327: INFO: app]: Page layout set to wider configuration.
+[2025-01-12 21:39:21,328: INFO: app]: Custom theme applied to Streamlit app.
+[2025-01-12 21:39:21,331: INFO: app]: ID card type selected: PAN
+[2025-01-12 21:39:21,332: INFO: app]: Header set for PAN Card registration.
+[2025-01-12 21:39:21,333: INFO: preprocess]: Error reading image: 'NoneType' object has no attribute 'read'
+[2025-01-12 21:39:21,334: INFO: app]: Face image loaded.
+[2025-01-12 21:39:21,335: ERROR: app]: No face image uploaded.
+[2025-01-12 21:39:26,917: INFO: app]: Page layout set to wider configuration.
+[2025-01-12 21:39:26,917: INFO: app]: Custom theme applied to Streamlit app.
+[2025-01-12 21:39:26,918: INFO: app]: ID card type selected: PAN
+[2025-01-12 21:39:26,919: INFO: app]: Header set for PAN Card registration.
+[2025-01-12 21:39:26,923: INFO: app]: Face image loaded.
+[2025-01-12 21:39:26,930: INFO: app]: ID card image loaded.
+[2025-01-12 21:39:26,949: INFO: preprocess]: contours are found at, (133, 54, 743, 466)
+[2025-01-12 21:39:26,950: INFO: utils]: File exists at C:\Users\HARSHUL\Desktop\ekyc\E-KYC\data\02_intermediate_data\contour_id.jpg
+[2025-01-12 21:39:26,959: INFO: app]: ID card ROI extracted.
+[2025-01-12 21:39:26,959: INFO: face_verification]: Extracting face...
+[2025-01-12 21:39:27,049: INFO: face_verification]: Extracted face saved at: C:\Users\HARSHUL\Desktop\ekyc\E-KYC\data\02_intermediate_data\extracted_face.jpg
+[2025-01-12 21:39:27,053: INFO: utils]: File exists at data\02_intermediate_data\face_image.jpg
+[2025-01-12 21:39:27,055: INFO: preprocess]: Image saved successfully: data\02_intermediate_data\face_image.jpg
+[2025-01-12 21:39:27,055: INFO: app]: Faces extracted and saved.
+[2025-01-12 21:39:27,055: INFO: face_verification]: Verifying the images....
+[2025-01-12 21:39:27,055: INFO: utils]: File exists at data\02_intermediate_data\face_image.jpg
+[2025-01-12 21:39:27,055: INFO: utils]: File exists at C:\Users\HARSHUL\Desktop\ekyc\E-KYC\data\02_intermediate_data\extracted_face.jpg
+[2025-01-12 21:39:35,045: INFO: face_verification]: Faces are verified as the same person
+[2025-01-12 21:39:35,050: INFO: app]: Face verification status: successful.
+[2025-01-12 21:39:35,051: INFO: ocr_engine]: Text Extraction Started...
+[2025-01-12 21:39:35,066: WARNING: easyocr]: Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+[2025-01-12 21:39:38,318: INFO: ocr_engine]: Inside Try-Catch...
+[2025-01-12 21:39:41,367: INFO: ocr_engine]: Extracted Text: |Governmentonindia|Abhishek Tiwari|DOB|07/05/2002|MALE|8|8173 2997 3675|
+[2025-01-12 21:39:41,372: INFO: app]: Text extracted and information parsed from ID card.
+[2025-01-12 21:39:41,512: INFO: sql_connection]: No records found.
+[2025-01-12 21:39:41,542: INFO: sql_connection]: No records found.
+[2025-01-12 21:39:41,542: INFO: sql_connection]: No duplicate records found.

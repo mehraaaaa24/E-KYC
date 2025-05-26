@@ -1,0 +1,5 @@
+[database]
+user = "root"
+password = "@warrobots"
+host = "localhost"
+database = "ekyc"
